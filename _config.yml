@@ -59,7 +59,7 @@ cookie_policy: /cookie-policy/
 defaults:
   -
     scope:
-      path: "ParCFD2025.github.io"
+      path: ""
       type: "pages"
     values:
       show_sidebar: true
