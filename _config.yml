@@ -1,12 +1,12 @@
 # Site Settings
 lang: en
-title: ParCFD International Conference Series
-tagline: ParCFD International Conference Series
-email: A.Lintermann@fz-juelich.de
+title: ParCFD International Conference 2025
+tagline: ParCFD International Conference 2025
+email: carlos.cajas@enesmerida.unam.mx
 description: >
-  Website of the Parallel CFD International Conference Series
-baseurl: "/bulma-clean-theme"
-url: "https://www.parcfd.org"
+  Website of the 36th Parallel CFD International Conference 2025
+baseurl: ""
+url: ""
 permalink: pretty
 #favicon: /path/to/favicon.png
 gh_sponsor: chrisrhymes
