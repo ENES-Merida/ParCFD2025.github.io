@@ -10,4 +10,4 @@ hero_darken: true
 series: blog_series
 ---
 
-The next ParCFD conference will be held in Merida, Yucatan, Mexico on November 25-27 2025. More details can be found [here](/upcoming_conference/).
+The next ParCFD conference will be held in Merida, Yucatan, Mexico on November 25-27 2025. More details can be found in [here](/upcoming_conference/).
