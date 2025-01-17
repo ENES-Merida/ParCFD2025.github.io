@@ -3,8 +3,8 @@
 - name: Call for contributions
   link: /#
   dropdown:
-    - name: Call for minisimposia
-      link: /call-minisimposia/
+    - name: Call for minisymposia
+      link: /call-minisymposia/
     - name: Call for papers
       link: /call-papers/
 #    - name: Landing Page With Callouts
