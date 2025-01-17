@@ -1,11 +1,11 @@
 #- name: Docs
 #  link: /docs/
-- name: About
+- name: Call for contributions
   link: /#
   dropdown:
-    - name: Objectives
+    - name: Call for minisimposia
       link: /objectives/
-    - name: Committees
+    - name: Call for papers
       link: /committees/
 #    - name: Landing Page With Callouts
 #      link: /landing/
@@ -21,12 +21,21 @@
 #      link: /example-recipe/
 #    - name: Showcase
 #      link: /showcase/
-- name: Conferences
+- name: About 36th ParCFD
   link: /#
   dropdown:
-    - name: Upcoming conference
+    - name: Key dates and registration
+      link: /objectives/
+    - name: Local committee
+      link: /committees/
+    - name: Information for Presenters, Listeners and sessions Chairs
+      link: /committees/
+- name: Travelling
+  link: /#
+  dropdown:
+    - name: Accomodation 
       link: /upcoming_conference/
-    - name: Previous conferences
+    - name: Venue
       link: /previous_conferences/
 - name: Conference Proceedings
   link: /proceedings/
