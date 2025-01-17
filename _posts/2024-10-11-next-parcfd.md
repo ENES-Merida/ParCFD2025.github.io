@@ -3,7 +3,7 @@ layout: post
 title: ParCFD 2025 Merida, Mexico
 description: How to create a post series with Bulma Clean Theme
 date: 2025-01-16 13:06:00
-hero_image: {{ site.baseurl }}/img/RendonPeniche.jpeg
+hero_image: "{{ site.baseurl }}/img/RendonPeniche.jpeg"
 image: ../img/RendonPeniche.jpeg
 hero_height: is-large
 hero_darken: true
