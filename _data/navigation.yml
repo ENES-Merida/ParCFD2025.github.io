@@ -26,7 +26,9 @@
   dropdown:
     - name: Key dates and registration
       link: /objectives/
-    - name: Local committee
+    - name: Invited Speakers
+      link: /objectives/
+    - name: Local Committee
       link: /committees/
     - name: Information for Presenters, Listeners and sessions Chairs
       link: /committees/
@@ -37,7 +39,7 @@
       link: /upcoming_conference/
     - name: Venue
       link: /previous_conferences/
-- name: Conference Proceedings
+- name: Programme
   link: /proceedings/
-- name: Blog
-  link: /blog/
+#- name: Blog
+#  link: /blog/
