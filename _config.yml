@@ -5,8 +5,8 @@ tagline: ParCFD International Conference 2025
 email: carlos.cajas@enesmerida.unam.mx
 description: >
   Website of the 36th Parallel CFD International Conference 2025
-baseurl: ""
-url: "https://enes-merida.github.io/ParCFD2025.github.io/"
+baseurl: "/ParCFD2025.github.io/"
+url: "https://enes-merida.github.io"
 permalink: pretty
 favicon: /img/ParCFD_logo_tr.png
 #/path/to/favicon.png
