@@ -1,6 +1,6 @@
 ---
-title: ParCFD
-subtitle: 36th Parallel CFD International Conference 2025
+title: 36th Parallel CFD international conference 2025
+subtitle: 25 - 27 November 2025, Merida, Yucatan, Mexico
 layout: page
 hero_image: /ParCFD2025.github.io/img/RendonPeniche.jpeg
 hero_darken: true
@@ -9,9 +9,7 @@ show_sidebar: true
 
 # Welcome to ParCFD
 
-The Parallel Computational Fluid Dynamics (ParCFD) Conference is an annual event. The inaugural event was held in 1989 in Manhattan Beach, California, and the next event will be held in Mexico.
-
-ParCFD is an annual international forum devoted to the discussion of recent developments and applications of parallel computing in the field of Computational Fluid Dynamics and related disciplines. 
+The Parallel Computational Fluid Dynamics (ParCFD) 2025 Conference is the 36th event in the ParCFD series. ParCFD is an annual international forum devoted to the discussion of recent developments and applications of parallel computing in the field of Computational Fluid Dynamics and related disciplines. 
 
 The topics of interest can cover, but are not limited to:
 
