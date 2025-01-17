@@ -8,7 +8,8 @@ description: >
 baseurl: "/bulma-clean-theme"
 url: "https://www.parcfd2025.org"
 permalink: pretty
-#favicon: /path/to/favicon.png
+favicon: /img/ParCFD_logo_tr.png
+#/path/to/favicon.png
 gh_sponsor: chrisrhymes
 #hide_share_buttons: true
 #theme_color: '#eeeeee'
