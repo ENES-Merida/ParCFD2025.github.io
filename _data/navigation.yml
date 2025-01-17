@@ -4,9 +4,9 @@
   link: /#
   dropdown:
     - name: Call for minisimposia
-      link: /objectives/
+      link: /call-minisimposia/
     - name: Call for papers
-      link: /committees/
+      link: /call-papers/
 #    - name: Landing Page With Callouts
 #      link: /landing/
 #    - name: Promo Page
@@ -25,9 +25,9 @@
   link: /#
   dropdown:
     - name: Key dates and registration
-      link: /objectives/
+      link: /key-dates-registration/
     - name: Invited Speakers
-      link: /objectives/
+      link: /invited-speakers/
     - name: Local Committee
       link: /committees/
     - name: Information for Presenters, Listeners and sessions Chairs
@@ -36,10 +36,10 @@
   link: /#
   dropdown:
     - name: Accomodation 
-      link: /upcoming_conference/
+      link: /accomodation/
     - name: Venue
-      link: /previous_conferences/
+      link: /venue/
 - name: Programme
-  link: /proceedings/
+  link: /programme/
 #- name: Blog
 #  link: /blog/
