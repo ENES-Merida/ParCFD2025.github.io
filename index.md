@@ -2,7 +2,7 @@
 title: ParCFD
 subtitle: 36th Parallel CFD International Conference 2025
 layout: page
-hero_image: /bulma-clean-theme/img/RendonPeniche.jpeg
+hero_image: /img/RendonPeniche.jpeg
 hero_darken: true
 show_sidebar: true
 ---
