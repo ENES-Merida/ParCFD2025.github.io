@@ -1,0 +1,32 @@
+---
+layout: page
+title: Key Dates and Registration
+subtitle: ParCFD 2025
+show_sidebar: false
+---
+
+# Key Dates and Registration
+
+|Key Dates||
+| - | - |
+| Jan. 17, 2024 | Mini-symposia submission opening |
+| Feb. 29, 2024 | Mini-symposia submission deadline |
+| Mar. 8, 2024 | Mini-symposia acceptance notification |
+| Mar. 14, 2024 | Abstract submission opening |
+| Jun. 5, 2024 (extended from May 01, 2024) | Abstract submission deadline |
+| Jul. 8, 2024 | Abstract acceptance notification |
+| Jul. 8, 2024 | Registration opening |
+| Jul. 21, 2024 | Early-bird registration deadline |
+| Aug. 9, 2024 | Registration deadline |
+| Sep. 02. - 04., 2024 | ParCFD 2024 conference |
+
+To submit a mini-symposium abstract, please find more information here. For abstract submissions for accepted mini-symposia, more information can be found [here](/call-minisymposia.md).
+
+The registration opens on July 8th, 2024. You will have the following options:
+
+| Registration | Student | Student (virtual) | Regular | Regular (virtual) |
+| - | - | - | - | - |
+| Early-bird | 420 € | 150 € | 580 € | 250 € | 
+| Full | 525 € | 150 € | 725 € | 250 € |
+
+Early-bird registration is possible until July 21st, 2024. To register to the event please use the portal below.
