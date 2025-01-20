@@ -1,8 +1,9 @@
 ---
 layout: page
-title: Call for minisymposia
+title: Call for papers
 subtitle: Contribute to ParCFD 2025 organizing a minisymposium
 show_sidebar: false
+callouts: papers_callouts
 ---
 
 # Call for papers
