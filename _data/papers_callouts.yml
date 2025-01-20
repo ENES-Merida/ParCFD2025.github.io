@@ -1,21 +1,10 @@
 style: is-light
-height: is-medium
 items:
-  - title: Example callout 1
-    subtitle: Example subtitle 1
+  - title: Latex template
     icon: fa-code
-    description: >
-      The example description text goes here and can be multiple lines.
-
-      For example, such as this. 
-    call_to_action_name: Call to action 1
+    call_to_action_name: Download
     call_to_action_link: /page-1/
-  - title: Example callout 2
-    subtitle: Example subtitle 2
+  - title: Word template
     icon: fa-file-word-o
-    description: >
-      The example description text goes here and can be multiple lines.
-
-      For example, such as this.
-    call_to_action_name: Call to action 2
+    call_to_action_name: Download
     call_to_action_link: /page-2/
