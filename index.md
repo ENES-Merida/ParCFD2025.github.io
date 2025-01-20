@@ -4,7 +4,7 @@ subtitle: 25 - 27 November 2025, Merida, Yucatan, Mexico
 layout: page
 hero_image: /ParCFD2025.github.io/img/MID_mgap2.png
 hero_darken: true
-show_sidebar: true
+show_sidebar: false
 ---
 
 # Welcome to ParCFD
