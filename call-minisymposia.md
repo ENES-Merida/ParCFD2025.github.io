@@ -5,7 +5,7 @@ subtitle: Contribute to ParCFD 2025 organizing a minisymposium
 show_sidebar: false
 ---
 
- #Call for minisymposia
+ # Call for minisymposia
   
 To bring together leading experts from CFD, parallel computing, and related topics, we invite you to contribute to the conference program by organizing a minisymposium. 
 You can find all related information and the templates for proposing a mini-symposium using the link here. 
