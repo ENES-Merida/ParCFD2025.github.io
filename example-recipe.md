@@ -6,8 +6,8 @@ description: An example recipe page
 author: CS Rhymes
 date: 2021-03-02
 show_sidebar: false
-image: ParCFD2025.github.io/img/recipe-example.jpg
-hero_image: ParCFD2025.github.io/img/recipe-example.jpg
+image: /ParCFD2025.github.io/img/recipe-example.jpg
+hero_image: /ParCFD2025.github.io/img/recipe-example.jpg
 hero_darken: true
 ingredients:
     - 1tsp vegetable oil
