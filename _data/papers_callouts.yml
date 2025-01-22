@@ -5,6 +5,6 @@ items:
     call_to_action_name: Download
     call_to_action_link: /page-1/
   - title: Word template
-    icon: fa fa-file-word-o
+    icon: fa-download
     call_to_action_name: Download
     call_to_action_link: /page-2/
