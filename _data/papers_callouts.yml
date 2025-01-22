@@ -1,10 +1,10 @@
 style: is-light
 items:
   - title: Latex template
-    icon: fa-file-word
+    icon: fa-file-code
     call_to_action_name: Download
-    call_to_action_link: www.google.com
+    call_to_action_link: changelog.txt
   - title: Word template
-    icon: fa-download
+    icon: fa-file-word
     call_to_action_name: Download
     call_to_action_link: /page-2/
