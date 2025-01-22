@@ -29,5 +29,5 @@ The registration opens on July 8th, 2024. You will have the following options:
 | Early-bird | 420 € | 150 € | 580 € | 250 € | 
 | Full | 525 € | 150 € | 725 € | 250 € |
 
-Early-bird registration is possible until July 21st, 2024. To register to the event please use the portal below.
-{% include notification.html message="This is the message for the notification" %}
+
+{% include notification.html message="Early-bird registration is possible until July 21st, 2024. The register open soon." %}
