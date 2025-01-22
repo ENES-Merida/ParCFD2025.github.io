@@ -3,7 +3,7 @@ items:
   - title: Latex template
     icon: fa-file-code
     call_to_action_name: Download
-    call_to_action_link: dump.tex
+    call_to_action_link: ./fileToDownload/dump-latex.zip
   - title: Word template
     icon: fa-file-word
     call_to_action_name: Download
