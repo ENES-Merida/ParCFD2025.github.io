@@ -1,7 +1,7 @@
 style: is-light
 items:
   - title: Latex template
-    icon: fa-code
+    icon: fa-file-pdf-o
     call_to_action_name: Download
     call_to_action_link: /page-1/
   - title: Word template
