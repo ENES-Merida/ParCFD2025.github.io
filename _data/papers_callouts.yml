@@ -1,9 +1,9 @@
 style: is-light
 items:
   - title: Latex template
-    icon: fa-file-pdf-o
+    icon: fa-file-word
     call_to_action_name: Download
-    call_to_action_link: /page-1/
+    call_to_action_link: www.google.com
   - title: Word template
     icon: fa-download
     call_to_action_name: Download
