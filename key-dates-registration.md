@@ -7,6 +7,9 @@ show_sidebar: false
 
 # Key Dates and Registration
 
+{% include notification.html message="
+Site under construction, information will be updated very soon." %}
+
 |Key Dates||
 | - | - |
 | Jan. 17, 2024 | Mini-symposia submission opening |
