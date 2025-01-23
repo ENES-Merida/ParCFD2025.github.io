@@ -5,8 +5,6 @@ subtitle: ParCFD 2025
 show_sidebar: false
 ---
 
-# Key Dates and Registration
-
 {% include notification.html message="
 Site under construction, information will be updated very soon." %}
 

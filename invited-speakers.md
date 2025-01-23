@@ -5,7 +5,8 @@ subtitle: ParCFD 2025
 show_sidebar: false
 ---
 
-# Invited Speakers
+{% include notification.html message="
+Site under construction, information will be updated very soon." %}
 
 The following renowned experts will join us at ParCFD 2025 to enrich our conference with keynote lectures on various topics of interest to our CFD community.
 
