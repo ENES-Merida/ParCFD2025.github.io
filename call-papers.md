@@ -11,6 +11,8 @@ Site under construction, information will be updated very soon." %}
 
 The [Scientific Committee](https://enes-merida.github.io/ParCFD2025.github.io/committees/) is looking for contributions in [all the scientific areas covered by the conference](https://enes-merida.github.io/ParCFD2025.github.io/). To submit a contribution, please write a 2-4 pages abstract following the provided templates. Note that the upper limit of 4 pages refers to extended abstracts excluding the list of references. Templates are available in Latex (preferred option) and MS Word. The final submission must be in English and in PDF format.
 
+<!--
+
 If you would like to contribute to one of the mini-symposia, the list of the accepted ones can be found on the mini-symposium page.
 
 Important dates for submitting an abstract:
@@ -31,3 +33,5 @@ After creating an accound you will be able to select "Submit Contribution" (open
 Please enter all required details for your contribution into the submission form (marked by asterisk) and proceed.
 Until the submission deadline, you can update your contribution details or withdraw the contribution.
 Deadlines and relative updates can be found on the [key dates and registration page](https://enes-merida.github.io/ParCFD2025.github.io/key-dates-registration/).
+
+-->

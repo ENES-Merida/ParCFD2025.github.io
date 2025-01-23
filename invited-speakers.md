@@ -10,6 +10,7 @@ Site under construction, information will be updated very soon." %}
 
 The following renowned experts will join us at ParCFD 2025 to enrich our conference with keynote lectures on various topics of interest to our CFD community.
 
+<!--
 
 <img loading="lazy" src="/ParCFD2025.github.io/img/2025_mexico.jpg" alt="Invited Speakers" style="width: 200px; height: auto; display: block; margin: 0 auto"/>
 
@@ -46,5 +47,7 @@ Prof. Hasse is elected Fellow of the Combustion Institute for his contributions 
 *In this talk I will first introduce the role of rCFD in combustion system design before I highlight the role of hydrogen in the energy transition and how it differs from conventional fuels. After discussing the impact of GPU-based supercomputers on rCFD software development, I will present how GPU-based direct numerical simulations can unravel the complexities of hydrogen combustion.*
 
 *In summary, in a rapidly changing environment, simulations on upcoming Exascale systems will provide physical insights that were deemed impossible just a few years ago. This will increase the impact of rCFD on the entire spectrum from fundamental science to industrial design of innovative systems.*
+
+-->
 
 ---
