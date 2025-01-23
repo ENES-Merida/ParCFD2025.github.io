@@ -9,7 +9,7 @@ show_sidebar: false
 
 The following renowned experts will join us at ParCFD 2025 to enrich our conference with keynote lectures on various topics of interest to our CFD community.
 
-<div style=\"text-align: center;\">
+<div style=\"text-align: center;">
     <img loading="lazy" src="/ParCFD2025.github.io/img/2025_mexico.jpg" alt="Invited Speakers" style="width: 300px; height: auto;"/>
 </div>
 <h2 id="-lennart-schneiders---siemens-digital-industries-software-" tabindex="0">
