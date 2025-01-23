@@ -12,11 +12,11 @@ Discover ideal accommodations within walking distance of your event venue! Our c
 
 ### List of hotels
 
-- Hotel 1
+- Hotel 1  
 Web: 
 
-- Hotel 2
+- Hotel 2  
 Web:
 
-- Hotel 3:
+- Hotel 3:  
 Web:
