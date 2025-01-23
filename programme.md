@@ -5,6 +5,7 @@ subtitle: ParCFD 2025
 show_sidebar: false
 ---
 
-# Programme
+{% include notification.html message="
+Site under construction, information will be updated very soon." %}
 
 The Conference Programme will be announced after the acceptance of the mini-symposia and the abstract submission deadline. A detailed schedule will be available here.
