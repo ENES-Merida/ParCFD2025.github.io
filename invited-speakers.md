@@ -11,7 +11,7 @@ Site under construction, information will be updated very soon." %}
 The following renowned experts will join us at ParCFD 2025 to enrich our conference with keynote lectures on various topics of interest to our CFD community.
 
 
-<img loading="lazy" src="/ParCFD2025.github.io/img/2025_mexico.jpg" alt="Invited Speakers" style="width: 200px; height: auto;"/>
+<img loading="lazy" src="/ParCFD2025.github.io/img/2025_mexico.jpg" alt="Invited Speakers" style="width: 200px; height: auto; display: block; margin: 0 auto"/>
 
 ## Lennart Schneiders - SIEMENS Digital Industries Software
 
@@ -27,7 +27,7 @@ Lennart Schneiders is a Software Engineer and researcher at Siemens Digital Indu
 
 ---
 
-<img loading="lazy" src="/ParCFD2025.github.io/img/2025_mexico.jpg" alt="Invited Speakers" style="width: 200px; height: auto;"/>
+<img loading="lazy" src="/ParCFD2025.github.io/img/2025_mexico.jpg" alt="Invited Speakers" style="width: 200px; height: auto; display: block; margin: 0 auto"/>
 
 ## Christian Hasse - Technical University Darmstadt, Simulation of reactive Thermo-Fluid Systems
 
@@ -48,12 +48,3 @@ Prof. Hasse is elected Fellow of the Combustion Institute for his contributions 
 *In summary, in a rapidly changing environment, simulations on upcoming Exascale systems will provide physical insights that were deemed impossible just a few years ago. This will increase the impact of rCFD on the entire spectrum from fundamental science to industrial design of innovative systems.*
 
 ---
-
-<!-- <p>
-        Este es un ejemplo de texto con una imagen en línea. 
-        <img 
-            src="https://fakeimg.pl/600x400?font=lobster" 
-            alt="Ejemplo de Imagen" 
-            style="vertical-align: middle; margin: 0 10px; width: 50px; height: auto;">
-        Aquí continúa el texto después de la imagen. Este método permite que la imagen se muestre como parte del flujo de texto, lo cual es útil para descripciones breves o elementos visuales que complementen el contenido.
-</p> -->
