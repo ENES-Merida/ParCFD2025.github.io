@@ -9,6 +9,6 @@ The conference will take place at the ["Centro Peninsular en Humanidades y Cienc
 
 <img loading="lazy" src="/ParCFD2025.github.io/img/RendonPeniche.jpeg" alt="CEPHCIS" style="width: 600px; height: auto; display: block; margin: 0 auto"/>
 
-Near CEPHCIS is La Plancha Park, located at the former Central Railway Station of Mérida, Yucatán. It is an innovative communal space where the region's cultural heritage blends with the modernity of urban landscaping. This unique park offers a wide variety of activities for all ages and interests, including a museum, gastronomic area, sports facilities, and artistic-cultural events, all designed to foster unforgettable experiences and become an integral part of its visitors' daily lives.
+Near CEPHCIS is [La Plancha Park](https://parquelaplancha.com/), located at the former Central Railway Station of Mérida, Yucatán. It is an innovative communal space where the region's cultural heritage blends with the modernity of urban landscaping. This unique park offers a wide variety of activities for all ages and interests, including a museum, gastronomic area, sports facilities, and artistic-cultural events, all designed to foster unforgettable experiences and become an integral part of its visitors' daily lives.
 
 <img loading="lazy" src="/ParCFD2025.github.io/img/LaPlancha.jpeg" alt="La Plancha" style="width: 600px; height: auto; display: block; margin: 0 auto"/>
