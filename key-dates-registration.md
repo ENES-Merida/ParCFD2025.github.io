@@ -10,15 +10,15 @@ Site under construction, information will be updated very soon." %}
 
 |Key Dates||
 | - | - |
-| Jan. 17, 2024 | Mini-symposia submission opening |
-| Feb. 29, 2024 | Mini-symposia submission deadline |
-| Mar. 8, 2024 | Mini-symposia acceptance notification |
-| Mar. 14, 2024 | Abstract submission opening |
-| Jun. 5, 2024 (extended from May 01, 2024) | Abstract submission deadline |
-| Jul. 8, 2024 | Abstract acceptance notification |
-| Jul. 8, 2024 | Registration opening |
-| Jul. 21, 2024 | Early-bird registration deadline |
-| Aug. 9, 2024 | Registration deadline |
+| Jan. 27, 2025 | Mini-symposia submission opening |
+| Mar. 7, 2025 | Mini-symposia submission deadline |
+| Mar. 14, 2024 | Mini-symposia acceptance notification |
+| Mar. 15, 2024 | Abstract submission opening |
+#| Jun. 5, 2024 (extended from May 01, 2024) | Abstract submission deadline |
+#| Jul. 8, 2024 | Abstract acceptance notification |
+#| Jul. 8, 2024 | Registration opening |
+#| Jul. 21, 2024 | Early-bird registration deadline |
+#| Aug. 9, 2024 | Registration deadline |
 | Sep. 02. - 04., 2024 | ParCFD 2024 conference |
 
 To submit a mini-symposium abstract, please find more information [here](https://enes-merida.github.io/ParCFD2025.github.io/call-minisymposia/). For abstract submissions for accepted mini-symposia, more information can be found [here](https://enes-merida.github.io/ParCFD2025.github.io/call-papers/).
