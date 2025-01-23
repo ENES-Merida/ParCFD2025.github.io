@@ -13,7 +13,7 @@ Site under construction, information will be updated very soon." %}
 | Jan. 27, 2025 | Mini-symposia submission opening |
 | Mar. 7, 2025 | Mini-symposia submission deadline |
 | Mar. 14, 2024 | Mini-symposia acceptance notification |
-| Nov. 25. - 27., 2025 | ParCFD 2025 conference |
+| Nov. 25 - 27, 2025 | ParCFD 2025 conference |
 
 <!--
 | Mar. 15, 2024 | Abstract submission opening |
