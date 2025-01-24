@@ -5,8 +5,7 @@ subtitle: ParCFD 2025
 show_sidebar: false
 ---
 
-{% include notification.html message="
-Site under construction, information will be updated very soon." %}
+<!-- {% include notification.html message="Site under construction, information will be updated very soon." %} -->
 
 |Key Dates||
 | - | - |
