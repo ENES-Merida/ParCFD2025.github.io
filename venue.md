@@ -2,7 +2,7 @@
 layout: page
 title: Venue
 subtitle: ParCFD 2025
-show_sidebar: true
+show_sidebar: false
 ---
 
 The conference will take place at the ["Centro Peninsular en Humanidades y Ciencias Sociales"](https://www.cephcis.unam.mx/) (CEPHCIS), located in the downtown area of [Mérida City](https://visitmerida.mx/). CEPHCIS is an interdisciplinary research center in Humanities and Social Sciences, primarily dedicated to the study and analysis of regional and Latin American issues.
