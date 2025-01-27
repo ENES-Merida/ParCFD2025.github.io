@@ -5,7 +5,7 @@ layout: page
 hero_image:  /img/plazaGrande.png
 hero_height: is-large
 hero_darken: true
-show_sidebar: true
+show_sidebar: false
 ---
 
 # Welcome to ParCFD
