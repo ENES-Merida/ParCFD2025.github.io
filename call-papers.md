@@ -6,8 +6,7 @@ show_sidebar: false
 callouts: papers_callouts
 ---
 
-{% include notification.html message="
-Site under construction, information will be updated very soon." %}
+<!-- {% include notification.html message="Site under construction, information will be updated very soon." %} -->
 
 The [Scientific Committee](https://enes-merida.github.io/ParCFD2025.github.io/committees/) is looking for contributions in [all the scientific areas covered by the conference](https://enes-merida.github.io/ParCFD2025.github.io/). To submit a contribution, please write a 2-4 pages abstract following the provided templates. Note that the upper limit of 4 pages refers to extended abstracts excluding the list of references. Templates are available in Latex (preferred option) and MS Word. The final submission must be in English and in PDF format.
 
