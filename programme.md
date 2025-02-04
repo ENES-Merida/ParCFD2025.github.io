@@ -2,7 +2,7 @@
 layout: page
 title: Programme
 subtitle: ParCFD 2025
-hero_height: is-small
+height: is-small
 show_sidebar: false
 ---
 
