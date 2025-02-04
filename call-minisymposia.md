@@ -6,8 +6,7 @@ show_sidebar: false
 callouts: minisymposia_callouts
 ---
 
-{% include notification.html message="
-Site under construction, information will be updated very soon." %}
+<!-- {% include notification.html message="Site under construction, information will be updated very soon." %} -->
 
 To bring together leading experts from CFD, parallel computing, and related topics, we invite you to contribute to the conference program by organizing a minisymposium.  
 You can find all related information and the templates for proposing a mini-symposium in the buttons above.
