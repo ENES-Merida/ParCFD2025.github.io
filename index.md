@@ -2,7 +2,7 @@
 title: 36th Parallel CFD international conference 2025
 subtitle: 25 - 27 November 2025, Merida, Yucatan, Mexico
 layout: page
-hero_image:  /img/plazaGrande.png
+hero_image:  /img/plazaGrandeSide.png
 hero_height: is-large
 hero_darken: true
 show_sidebar: false
