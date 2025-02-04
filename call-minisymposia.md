@@ -3,13 +3,14 @@ layout: page
 title: Call for minisymposia
 subtitle: Contribute to ParCFD 2025 organizing a minisymposium
 show_sidebar: false
+callouts: minisymposia_callouts
 ---
 
 {% include notification.html message="
 Site under construction, information will be updated very soon." %}
 
 To bring together leading experts from CFD, parallel computing, and related topics, we invite you to contribute to the conference program by organizing a minisymposium.  
-You can find all related information and the templates for proposing a mini-symposium using the link [here](https://enes-merida.github.io/ParCFD2025.github.io/call-papers/).  
-Please submit your mini-symposium proposal latest until February 28, 2025. You will receive a notification of acceptance latest until March 15, 2025.
+You can find all related information and the templates for proposing a mini-symposium in the buttons above.
+Please submit your mini-symposium proposal latest until February 28, 2025 to the email: [parcfd2025@enesmerida.unam.mx](mailto:parcfd2025@enesmerida.unam.mx). You will receive a notification of acceptance latest until March 15, 2025.
 
 
