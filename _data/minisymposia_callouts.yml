@@ -1,5 +1,5 @@
 style: is-light
-height: is-medium
+height: is-small
 items:
   - title: Latex template
     icon: fa-file-code
