@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Call for papers
-subtitle: Contribute to ParCFD 2025 organizing a minisymposium
+subtitle: Contribute to ParCFD 2025 submitting a paper
 hero_image:  /img/monumentoPatriaB.png
 hero_height: is-medium
 hero_darken: true
