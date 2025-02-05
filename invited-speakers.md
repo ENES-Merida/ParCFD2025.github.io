@@ -3,7 +3,7 @@ layout: page
 title: Invited Speakers
 subtitle: ParCFD 2025
 hero_image:  /img/casaMontejo.png
-hero_height: is-medium
+hero_height: is-halfheight
 hero_darken: true
 show_sidebar: false
 ---
