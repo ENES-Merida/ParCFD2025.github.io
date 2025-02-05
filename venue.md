@@ -2,6 +2,9 @@
 layout: page
 title: Venue
 subtitle: ParCFD 2025
+hero_image:  /img/monumentoPatriaA.png
+hero_height: is-halfheight
+hero_darken: true
 show_sidebar: false
 ---
 
