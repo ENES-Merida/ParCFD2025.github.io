@@ -2,6 +2,9 @@
 layout: page
 title: Key Dates and Registration
 subtitle: ParCFD 2025
+hero_image:  /img/plazaGrandeSideB.png
+hero_height: is-medium
+hero_darken: true
 show_sidebar: false
 ---
 
