@@ -2,6 +2,8 @@
 layout: page
 title: Call for minisymposia
 subtitle: Contribute to ParCFD 2025 organizing a minisymposium
+hero_image:  /img/RendonPeniche.jpeg
+hero_height: is-fullwidth
 show_sidebar: false
 callouts: minisymposia_callouts
 ---
