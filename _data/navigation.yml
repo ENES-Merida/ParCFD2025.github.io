@@ -30,8 +30,8 @@
       link: /invited-speakers/
     - name: Local Committee
       link: /committees/
-    - name: Information for Presenters, Listeners and sessions Chairs
-      link: /information-presenters-listeners-session/
+#    - name: Information for Presenters, Listeners and sessions Chairs
+#      link: /information-presenters-listeners-session/
 - name: Travelling
   link: /#
   dropdown:
