@@ -2,29 +2,24 @@
   size: small
   description: |-
   sponsors:
-    - name: >
+    - name: |-
         Dr. Juan Carlos Cajas García, 
-        Departamento de Matemáticas Aplicadas y Geociencias, 
-        ENES-Mérida, 
-        Universidad Nacional Autónoma de México, México
+        ENES-Mérida, UNAM
 - tier_name: Local Organizing Committee
   size: small
   description: |-
   sponsors: 
     - name: |-
         Dr. Erick Salcedo Álvarez,
-        Departamento de Matemáticas Aplicadas y Geociencias,
         ENES-Mérida,
-        Universidad Nacional Autónoma de México, México
+        Universidad Nacional Autónoma de México
     - name: |-
         Dr. Juan Manuel Rivero Fernández,
-        Departamento de Matemáticas Aplicadas y Geociencias,
-        ENES-Mérida,
-        Universidad Nacional Autónoma de México, México
+        Departamento de Matemáticas Aplicadas y Geociencias, ENES-Mérida,
+        Universidad Nacional Autónoma de México
     - name: |-
         M.C. Edwin Enrique Pérez Rodríguez,
-        Departamento de Matemáticas Aplicadas y Geociencias,
-        ENES-Mérida,
+        ENES-Mérida, 
         Universidad Nacional Autónoma de México, México
 - tier_name: International Scientific Advisory Committee
   size: small
