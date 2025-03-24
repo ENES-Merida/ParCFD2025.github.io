@@ -13,8 +13,8 @@ show_sidebar: false
 |Key Dates||
 | - | - |
 | Feb. 17, 2025 | Mini-symposia submission opening |
-| Mar. 24, 2025 | Mini-symposia submission deadline |
-| Mar. 31, 2025 | Mini-symposia acceptance notification |
+| Mar. 28, 2025 (extended deadline) | Mini-symposia submission deadline |
+| Apr. 4, 2025 | Mini-symposia acceptance notification |
 | Nov. 25 - 27, 2025 | ParCFD 2025 conference |
 
 <!--
