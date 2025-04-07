@@ -10,11 +10,11 @@ show_sidebar: false
 
 The following mini-symposia have been accepted for inclusion in the ParCFD 2025 program:
 
-- **MS1: Advancing CI/CD Methodologies in Computational Fluid Dynamics**
+- [**MS1: Advancing CI/CD Methodologies in Computational Fluid Dynamics**](/PARCFD2025.GITHUB.IO/mini-symposia-1)  
     Damien Dosimont, Guillaume Houzeaux and Dennis Hoppe
 
-- **MS2: HPC Modelling of Physiological Flows: Multi-Scale and Multi-Physics Simulations in Biomedicine**
+- **MS2: HPC Modelling of Physiological Flows: Multi-Scale and Multi-Physics Simulations in Biomedicine**  
     Silvia Ceccacci, Beatriz Eguzkitza, Hadrien Calmet and Michele Bucelli
 
-- **MS3: Convergence of Artificial Intelligence and High-Performance Computing for Computational Fluid Dynamics**
+- **MS3: Convergence of Artificial Intelligence and High-Performance Computing for Computational Fluid Dynamics**  
     A. Lintermann, G. Houzeaux, M. Rüttgers, C. Lagemann, C. Lapeyre and M. Tsubokura
