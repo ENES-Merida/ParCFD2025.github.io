@@ -8,7 +8,7 @@ hero_darken: true
 show_sidebar: false
 ---
 
-### Silvia Ceccacci, Beatriz Eguzkitza, Hadrien Calmet and Michele Bucelli
+#### Silvia Ceccacci, Beatriz Eguzkitza, Hadrien Calmet and Michele Bucelli
 
 **Abstract:**
 
@@ -46,7 +46,7 @@ Dr. Hadrien Calmet is a senior researcher in bioengineering (CFD & HPC) at BSC a
 
 ---
 
-<img loading="lazy" src="/img/michele.png" alt="MS1" style="width: 200px; height: auto; display: block; margin: 0 auto"/>
+<img loading="lazy" src="/img/michele.png" alt="organizer" style="width: 200px; height: auto; display: block; margin: 0 auto"/>
 
 ## Michele Bucelli - Politecnico di Milano, MOX, Dipartimento di Matematica
 
