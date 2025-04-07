@@ -28,7 +28,7 @@ Damien Dosimont, Guillaume Houzeaux and Dennis Hoppe
 
 **Advanced Testing for CFD Simulations**
 
-- **Automated Testing Frameworks:** Integration of cutting-edge automated testing methodologies into CI/CD pipelines to enhance simulation accuracy.
+- **Automated Testing Frameworks:** Integration of cutting-edge automated testing methodologies into CI/CD pipelines to enhance simulation accuracy.
 
 - **Large-Scale Parallel Testing Challenges:** Addressing issues with testing large, parallel CFD simulations and ensuring their reliability.
 
