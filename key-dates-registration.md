@@ -26,7 +26,7 @@ show_sidebar: false
 | Aug. 9, 2024 | Registration deadline |
 -->
 
-To submit a mini-symposium abstract, please find more information [here](https://enes-merida.github.io/ParCFD2025.github.io/call-minisymposia/). For abstract submissions for accepted mini-symposia, more information can be found [here](https://enes-merida.github.io/ParCFD2025.github.io/call-papers/).
+To submit a mini-symposium abstract, please find more information [here](/call-minisymposia). For abstract submissions for accepted mini-symposia, more information can be found [here](/call-papers).
 
 <!--
 The registration opens on July 8th, 2024. You will have the following options:

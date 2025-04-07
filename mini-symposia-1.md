@@ -8,7 +8,7 @@ hero_darken: true
 show_sidebar: false
 ---
 
-# Damien Dosimont, Guillaume Houzeaux and Dennis Hoppe
+#### Damien Dosimont, Guillaume Houzeaux and Dennis Hoppe
 
 **Abstract:**
 
