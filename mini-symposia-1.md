@@ -24,15 +24,15 @@ Damien Dosimont, Guillaume Houzeaux and Dennis Hoppe
 
 - **Portability Strategies:** Ensuring compatibility across different compilers, architectures, CPU/GPU configurations, and programming standards.
 
-- **Containerization and Code Versioning:** Techniques for managing multiple code versions and achieving portability through containerization.
+- **Containerization and Code Versioning:** Techniques for managing multiple code versions and achieving portability through containerization.
 
 **Advanced Testing for CFD Simulations**
 
 - **Automated Testing Frameworks:** Integration of cutting-edge automated testing methodologies into CI/CD pipelines to enhance simulation accuracy.
 
-- **Large-Scale Parallel Testing Challenges:** Addressing issues with testing large, parallel CFD simulations and ensuring their reliability.
+- **Large-Scale Parallel Testing Challenges:** Addressing issues with testing large, parallel CFD simulations and ensuring their reliability.
 
-- **Interdisciplinary Testing Collaboration:** Best practices for collaborative testing within multidisciplinary CFD research teams.
+- **Interdisciplinary Testing Collaboration:** Best practices for collaborative testing within multidisciplinary CFD research teams.
 
 **Seamless Deployment of CFD Applications**
 
