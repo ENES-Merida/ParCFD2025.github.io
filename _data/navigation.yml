@@ -35,11 +35,14 @@
 - name: Travelling
   link: /#
   dropdown:
-    - name: Accomodation 
+    - name: Accomodation
       link: /accomodation/
     - name: Venue
       link: /venue/
 - name: Programme
-  link: /programme/
+  link: /#
+  dropdown:
+    - name: Accepted Mini-Symposia
+      link: /programme/
 #- name: Blog
 #  link: /blog/
