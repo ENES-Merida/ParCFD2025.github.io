@@ -2,7 +2,7 @@
 layout: page
 title: Advancing CI/CD Methodologies in Computational Fluid Dynamics
 subtitle: Mini-Symposia I
-hero_image:  /img/monumentoPatriaC
+hero_image:  /img/monumentoPatriaC.png
 hero_height: is-halfheight
 hero_darken: true
 show_sidebar: false
