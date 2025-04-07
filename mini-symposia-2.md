@@ -8,7 +8,7 @@ hero_darken: true
 show_sidebar: false
 ---
 
-# Silvia Ceccacci, Beatriz Eguzkitza, Hadrien Calmet and Michele Bucelli
+### Silvia Ceccacci, Beatriz Eguzkitza, Hadrien Calmet and Michele Bucelli
 
 **Abstract:**
 
