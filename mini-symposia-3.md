@@ -34,7 +34,7 @@ Dr. Andreas Lintermann is the leader of the Simulation and Data Lab ”Fluids & 
 
 ---
 
-<img loading="lazy" src="/img/guillaume.wepb" alt="organizer" style="width: 200px; height: auto; display: block; margin: 0 auto"/>
+<img loading="lazy" src="/img/guillaume.webp" alt="organizer" style="width: 200px; height: auto; display: block; margin: 0 auto"/>
 
 ## Guillaume Houzeaux - Barcelona Supercomputing Center, Computer Applications in Science and Engineering (CASE) Department
 
