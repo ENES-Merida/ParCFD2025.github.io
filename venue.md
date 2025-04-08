@@ -2,7 +2,7 @@
 layout: page
 title: Venue
 subtitle: ParCFD 2025
-hero_image:  /img/monumentoPatriaA.png
+hero_image:  /img/monumentoPatriaA.webp
 hero_height: is-halfheight
 hero_darken: true
 show_sidebar: false
@@ -14,6 +14,6 @@ The conference will take place at the ["Centro Cultural Universitario"](https://
 
 <img loading="lazy" src="/img/ccuy.webp" alt="CCUY" style="width: 600px; height: auto; display: block; margin: 0 auto"/>
 
-Near CEPHCIS is [La Plancha Park](https://parquelaplancha.com/), located at the former Central Railway Station of Mérida, Yucatán. It is an innovative communal space where the region's cultural heritage blends with the modernity of urban landscaping. This unique park offers a wide variety of activities for all ages and interests, including a museum, gastronomic area, sports facilities, and artistic-cultural events, all designed to foster unforgettable experiences and become an integral part of its visitors' daily lives.
+Near CCU is [La Plancha Park](https://parquelaplancha.com/), located at the former Central Railway Station of Mérida, Yucatán. It is an innovative communal space where the region's cultural heritage blends with the modernity of urban landscaping. This unique park offers a wide variety of activities for all ages and interests, including a museum, gastronomic area, sports facilities, and artistic-cultural events, all designed to foster unforgettable experiences and become an integral part of its visitors' daily lives.
 
 <img loading="lazy" src="/img/LaPlancha.webp" alt="La Plancha" style="width: 600px; height: auto; display: block; margin: 0 auto"/>

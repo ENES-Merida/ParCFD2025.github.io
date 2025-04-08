@@ -2,7 +2,7 @@
 layout: page
 title: Information for Presenters, Listeners, and Session Chairs
 subtitle: ParCFD 2025
-hero_image:  /img/monumentoPatriaC.png
+hero_image:  /img/monumentoPatriaC.webp
 hero_height: is-halfheight
 hero_darken: true
 show_sidebar: false

@@ -2,7 +2,7 @@
 layout: page
 title: Accomodation
 subtitle: ParCFD 2025
-hero_image:  /img/vistaAereaA.png
+hero_image:  /img/vistaAereaA.webp
 hero_height: is-halfheight
 hero_darken: true
 show_sidebar: false

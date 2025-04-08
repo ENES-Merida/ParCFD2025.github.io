@@ -2,7 +2,7 @@
 layout: page
 title: Call for minisymposia
 subtitle: Contribute to ParCFD 2025 organizing a minisymposium
-hero_image:  /img/RendonPeniche.jpeg
+hero_image:  /img/RendonPeniche.webp
 hero_height: is-medium
 hero_darken: true
 show_sidebar: false
@@ -18,5 +18,3 @@ Please submit your mini-symposium proposal latest until March 28 (extended deadl
 The call for mini-symposia is closed.
 
 The list of accepted mini-symposia can be found [here](/accepted-minisymposia).
-
-

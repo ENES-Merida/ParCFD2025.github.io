@@ -2,7 +2,7 @@
 layout: page
 title: Accepted minisymposia
 subtitle: ParCFD 2025
-hero_image:  /img/RendonPeniche.jpeg
+hero_image:  /img/RendonPeniche.webp
 hero_height: is-medium
 hero_darken: true
 show_sidebar: false
