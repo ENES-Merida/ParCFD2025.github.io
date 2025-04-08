@@ -22,7 +22,7 @@ show_sidebar: false
 
 ---
 
-<img loading="lazy" src="/img/silvia.png" alt="organizer" style="width: 200px; height: auto; display: block; margin: 0 auto"/>
+<img loading="lazy" src="/img/silvia.webp" alt="organizer" style="width: 200px; height: auto; display: block; margin: 0 auto"/>
 
 ## Silvia Ceccacci - Barcelona Supercomputing Center, Computer Applications in Science and Engineering Department
 
@@ -30,7 +30,7 @@ Silvia Ceccacci is a mathematician with a PhD in Applied Mathematics from Macqua
 
 ---
 
-<img loading="lazy" src="/img/beatriz.png" alt="organizer" style="width: 200px; height: auto; display: block; margin: 0 auto"/>
+<img loading="lazy" src="/img/beatriz.webp" alt="organizer" style="width: 200px; height: auto; display: block; margin: 0 auto"/>
 
 ## Beatriz Eguzkitza - Barcelona Supercomputing Center, Computer Applications in Science and Engineering Department
 
@@ -38,7 +38,7 @@ Beatriz Eguzkitza holds a PhD in Computer Architecture (with a focus on Numerica
 
 ---
 
-<img loading="lazy" src="/img/hadrien.png" alt="organizer" style="width: 200px; height: auto; display: block; margin: 0 auto"/>
+<img loading="lazy" src="/img/hadrien.webp" alt="organizer" style="width: 200px; height: auto; display: block; margin: 0 auto"/>
 
 ## Hadrien Calmet - Barcelona Supercomputing Center, Computer Applications in Science and Engineering Department
 
@@ -46,7 +46,7 @@ Dr. Hadrien Calmet is a senior researcher in bioengineering (CFD & HPC) at BSC a
 
 ---
 
-<img loading="lazy" src="/img/michele.png" alt="organizer" style="width: 200px; height: auto; display: block; margin: 0 auto"/>
+<img loading="lazy" src="/img/michele.webp" alt="organizer" style="width: 200px; height: auto; display: block; margin: 0 auto"/>
 
 ## Michele Bucelli - Politecnico di Milano, MOX, Dipartimento di Matematica
 

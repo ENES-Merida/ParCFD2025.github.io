@@ -54,7 +54,7 @@ This second iteration aims to broaden the scope, further emphasize the importanc
 
 ---
 
-<img loading="lazy" src="/img/damien.png" alt="organizer" style="width: 200px; height: auto; display: block; margin: 0 auto"/>
+<img loading="lazy" src="/img/damien.webp" alt="organizer" style="width: 200px; height: auto; display: block; margin: 0 auto"/>
 
 ## Damien Dosimont - Barcelona Supercomputing Center, Computer Applications in Science and Engineering (CASE) Department
 
@@ -62,7 +62,7 @@ Dr. Damien Dosimont obtained a BSc in Electronics (2009) and MSc in Computer Sci
 
 ---
 
-<img loading="lazy" src="/img/guillaume.png" alt="organizer" style="width: 200px; height: auto; display: block; margin: 0 auto"/>
+<img loading="lazy" src="/img/guillaume.webp" alt="organizer" style="width: 200px; height: auto; display: block; margin: 0 auto"/>
 
 ## Guillaume Houzeaux - Barcelona Supercomputing Center, Computer Applications in Science and Engineering (CASE) Department
 
@@ -70,7 +70,7 @@ Since 2005, Dr. Guillaume Houzeaux has led the ”Physical and Numerical Modelin
 
 ---
 
-<img loading="lazy" src="/img/dennis.png" alt="organizer" style="width: 200px; height: auto; display: block; margin: 0 auto"/>
+<img loading="lazy" src="/img/dennis.webp" alt="organizer" style="width: 200px; height: auto; display: block; margin: 0 auto"/>
 
 ## Dennis Hoppe - High-Performance Computing Center (HLRS) of the University of Stuttgart, Converged Computing Department
 

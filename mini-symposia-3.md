@@ -34,7 +34,7 @@ Dr. Andreas Lintermann is the leader of the Simulation and Data Lab ”Fluids & 
 
 ---
 
-<img loading="lazy" src="/img/guillaume.png" alt="organizer" style="width: 200px; height: auto; display: block; margin: 0 auto"/>
+<img loading="lazy" src="/img/guillaume.wepb" alt="organizer" style="width: 200px; height: auto; display: block; margin: 0 auto"/>
 
 ## Guillaume Houzeaux - Barcelona Supercomputing Center, Computer Applications in Science and Engineering (CASE) Department
 
@@ -42,7 +42,7 @@ Since 2005, Dr. Guillaume Houzeaux has led the ”Physical and Numerical Modelin
 
 ---
 
-<img loading="lazy" src="/img/mario.png" alt="organizer" style="width: 200px; height: auto; display: block; margin: 0 auto"/>
+<img loading="lazy" src="/img/mario.webp" alt="organizer" style="width: 200px; height: auto; display: block; margin: 0 auto"/>
 
 ## Mario Rüttgers - Inha University, Data-Driven Fluid Engineering (DDFE) Laboratory
 
@@ -50,7 +50,7 @@ Since 2024, Dr. Mario Rüttgers is a member of the Data-Driven Fluid Engineering
 
 ---
 
-<img loading="lazy" src="/img/christian.png" alt="organizer" style="width: 200px; height: auto; display: block; margin: 0 auto"/>
+<img loading="lazy" src="/img/christian.webp" alt="organizer" style="width: 200px; height: auto; display: block; margin: 0 auto"/>
 
 ## Christian Lagemann - University of Washington, AI Institute in Dynamic Systems, Department of Mechanical Engineering
 
@@ -58,7 +58,7 @@ Dr. Christian Lagemann is a Postdoctoral Research Fellow at the AI Institute in 
 
 ---
 
-<img loading="lazy" src="/img/corentin.png" alt="organizer" style="width: 200px; height: auto; display: block; margin: 0 auto"/>
+<img loading="lazy" src="/img/corentin.webp" alt="organizer" style="width: 200px; height: auto; display: block; margin: 0 auto"/>
 
 ## Corentin Lapeyre - NVIDIA Corporation
 
@@ -66,7 +66,7 @@ Dr. Corentin Lapeyre is a Strategic Researcher Engagement Manager at NVIDIA, whe
 
 ---
 
-<img loading="lazy" src="/img/makoto.png" alt="organizer" style="width: 200px; height: auto; display: block; margin: 0 auto"/>
+<img loading="lazy" src="/img/makoto.webp" alt="organizer" style="width: 200px; height: auto; display: block; margin: 0 auto"/>
 
 ## Makoto Tsubokura - RIKEN Center for Computational Science, Complex Phenomena Unified Simulation Research Team, Operations and Computer Technologies Division
 
