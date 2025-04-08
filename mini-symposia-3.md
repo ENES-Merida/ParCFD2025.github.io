@@ -26,7 +26,7 @@ show_sidebar: false
 
 ---
 
-<img loading="lazy" src="/img/andreas.png" alt="organizer" style="width: 200px; height: auto; display: block; margin: 0 auto"/>
+<img loading="lazy" src="/img/andreas.webp" alt="organizer" style="width: 200px; height: auto; display: block; margin: 0 auto"/>
 
 ## Andreas Lintermann - Jülich Supercomputing Centre, Forschungszentrum Jülich GmbH
 
