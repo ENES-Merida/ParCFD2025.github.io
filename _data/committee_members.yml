@@ -3,20 +3,24 @@
   description: |-
   sponsors:
     - name: |-
-        Dr. Juan Carlos Cajas García
+        Dr. Juan Carlos Cajas García,
         ENES-Mérida, UNAM
 - tier_name: Local Organizing Committee
   size: small
   description: |-
-  sponsors: 
-    - name: "Dr. Erick Salcedo Álvarez,\n\n
-        ENES-Mérida, UNAM"
+  sponsors:
+    - name: |-
+        Dr. Erick Salcedo Álvarez,
+        ENES-Mérida, UNAM
     - name: |-
         Dr. Juan Manuel Rivero,
-          ENES-Mérida, UNAM
-    - name: |-
-        M.C. Edwin Enrique Pérez R. 
         ENES-Mérida, UNAM
+    - name: |-
+        M.C. Edwin Enrique Pérez R.,
+        ENES-Mérida, UNAM
+    - name: |-
+        Dr. Carlos Francisco Brito L.,
+        UADY
 - tier_name: International Scientific Advisory Committee
   size: small
   description: |-
@@ -37,7 +41,7 @@
     - name: Jang-Hyuk Kwon, Korea Institute of Science and Technology, Korea
     - name: Chao-An Lin, National Tsing Hua University, Taiwan
     - name: Andreas Lintermann, Jülich Supercomputing Center, Germany
-      profile: https://www.fz-juelich.de/profile/lintermann_a 
+      profile: https://www.fz-juelich.de/profile/lintermann_a
     - name: James McDonough, University of Kentucky, USA
     - name: Youssef Mesri, Mines Paris Tech, France
     - name: Koji Morinishi, Kyoto Institute of Technology, Japan
