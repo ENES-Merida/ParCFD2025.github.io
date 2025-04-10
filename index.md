@@ -30,3 +30,5 @@ The topics of interest can cover, but are not limited to:
 * Astrophysical Fluid Dynamics
 * Software Frameworks and C/G-PU Computing
 * AI and Machine Learning for CFD
+
+<div class="powr-visitor-counter" id="f030e45e_1744301083"></div><script src="https://www.powr.io/powr.js?platform=html"></script>
