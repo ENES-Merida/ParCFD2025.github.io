@@ -2,7 +2,7 @@
 layout: page
 title: Call for papers
 subtitle: Contribute to ParCFD 2025 submitting a paper
-hero_image:  /ParCFD2025.github.io/img/monumentoPatriaB.webp
+hero_image: /img/monumentoPatriaB.webp
 hero_height: is-medium
 hero_darken: true
 show_sidebar: false
@@ -13,7 +13,7 @@ callouts: papers_callouts
 
 The [Scientific Committee](/committees) is looking for contributions in [all the scientific areas covered by the conference](/). To submit a contribution, please write a 2-4 pages abstract following the provided templates. Note that the upper limit of 4 pages refers to extended abstracts excluding the list of references. Templates are available in Latex (preferred option) and MS Word. The final submission must be in English and in PDF format.
 
-If you would like to contribute to one of the mini-symposia, the list of the accepted ones can be found on the [mini-symposium page](/ParCFD2025.github.io/accepted-minisymposia/).
+If you would like to contribute to one of the mini-symposia, the list of the accepted ones can be found on the [mini-symposium page](/accepted-minisymposia/).
 
 Important dates for submitting an abstract:
 
@@ -50,4 +50,4 @@ Abstracts can be submitted using the following portal.
     </div>
 </article>
 <br/>
-Deadlines and relative updates can be found on the <a href="/ParCFD2025.github.io/key-dates-registration">key dates and registration page</a>.
+Deadlines and relative updates can be found on the <a href="/key-dates-registration">key dates and registration page</a>.
