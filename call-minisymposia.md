@@ -6,7 +6,7 @@ hero_image:  /img/RendonPeniche.webp
 hero_height: is-medium
 hero_darken: true
 show_sidebar: false
-callouts: minisymposia_callouts
+# callouts: minisymposia_callouts
 ---
 
 <!-- {% include notification.html message="Site under construction, information will be updated very soon." %} -->
