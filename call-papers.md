@@ -14,7 +14,7 @@ show_sidebar: false
 The [Scientific Committee](/committees) is looking for contributions in [all the scientific areas covered by the conference](/). To submit a contribution, please write a 2-4 pages abstract following the provided templates. Note that the upper limit of 4 pages refers to extended abstracts excluding the list of references. Template is available in Latex. The final submission must be in English and in PDF format.
 <br/>
 <div class="has-text-centered">
-    <a class="button is-primary" href="./fileToDownload/TemplateLaTexParCFD2025.zip" onclick="event.preventDefault()" disabled>
+    <a class="button is-primary" href="/fileToDownload/TemplateLaTexParCFD2025.zip" onclick="event.preventDefault()" disabled>
     <!-- <a class="button is-primary" href="./fileToDownload/TemplateLaTexParCFD2025.zip" download> -->
         Latex Template
     </a>
