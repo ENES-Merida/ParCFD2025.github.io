@@ -18,3 +18,6 @@ The following mini-symposia have been accepted for inclusion in the ParCFD 2025 
 
 - [**MS3: Convergence of Artificial Intelligence and High-Performance Computing for Computational Fluid Dynamics**](/mini-symposia-3)  
     A. Lintermann, G. Houzeaux, M. Rüttgers, C. Lagemann, C. Lapeyre and M. Tsubokura
+    
+- [**MS4: High Performance Computing and AI for Atmospheric and Oceanic Flows on Exascale Computers**](/mini-symposia-4)  
+    S. Marras and Y. Tissaoui
