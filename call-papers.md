@@ -15,7 +15,7 @@ The [Scientific Committee](/committees) is looking for contributions in [all the
 <br/>
 <div class="has-text-centered">
     <!-- <a class="button is-primary" href="/fileToDownload/TemplateLaTexParCFD2025.zip" onclick="event.preventDefault()" disabled> -->
-    <a class="button is-primary" href="./fileToDownload/TemplateLaTexParCFD2025.zip" download>
+    <a class="button is-primary" href="/fileToDownload/TemplateLaTexParCFD2025.zip" download>
         Latex Template
     </a>
 </div>
