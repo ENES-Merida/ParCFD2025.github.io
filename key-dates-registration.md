@@ -15,12 +15,12 @@ show_sidebar: false
 | Feb. 17, 2025 | Mini-symposia submission opening |
 | Mar. 28, 2025 (extended deadline) | Mini-symposia submission deadline |
 | Apr. 4, 2025 | Mini-symposia acceptance notification |
+| May. 15, 2025 | Abstract submission opening |
+| Jul. 7, 2025 | Abstract submission deadline |
+| Jul. 28, 2025 | Abstract acceptance notification |
 | Nov. 24 - 26, 2025 | ParCFD 2025 conference |
 
 <!--
-| Mar. 15, 2024 | Abstract submission opening |
-| Jun. 5, 2024 (extended from May 01, 2024) | Abstract submission deadline |
-| Jul. 8, 2024 | Abstract acceptance notification |
 | Jul. 8, 2024 | Registration opening |
 | Jul. 21, 2024 | Early-bird registration deadline |
 | Aug. 9, 2024 | Registration deadline |
