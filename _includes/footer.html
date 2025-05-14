@@ -1,7 +1,13 @@
 <footer class="footer">
     <div class="container">
         {% if site.footer_menu %}
-            <div class="columns is-multiline">
+            <div class="columns is-multiline is-align-items-center">
+                <a href="https://www.unam.mx/" class="py-0 px-0">
+                    <img src="{{ site.baseurl }}/img/logo-unam.png" style="height: 100px; object-fit: contain;">
+                </a>
+                <a href="https://uady.mx/" class="py-0 px-1">
+                    <img src="{{ site.baseurl }}/img/logo-uady.png" style="height: 100px; object-fit: contain;">
+                </a>
                 {% for item in site.data[site.footer_menu] %}
                     <div class="column has-text-centered">
                         <div>
@@ -9,10 +15,18 @@
                         </div>
                     </div>
                 {% endfor %}
+                {% if site.social.linkedin %}
+                    <a href="{{ site.social.linkedin }}" class="button is-medium">
+                        <span class="icon is-medium">
+                            <i class="fa-brands fa-linkedin fa-xl"></i>
+                            <span class="is-sr-only">LinkedIn</span>
+                        </span>
+                    </a>
+                {% endif %}
             </div>
         {% endif %}
 
-        {% include follow.html %}
+        <!-- {% include follow.html %} -->
 
         <div class="content is-small has-text-centered">
             <p class="">Theme built by <a href="https://www.csrhymes.com">C.S. Rhymes</a></p>
