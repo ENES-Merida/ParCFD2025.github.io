@@ -50,7 +50,7 @@ Abstracts can be submitted using the following portal.
                 <li>To submit an abstract (and for registration later on) you need to create a conftool user account.</li>
                 <li>Please provide valid name, address, and email address, since these will be used later for sending you relevant information about your submission.</li>
                 <li>In case you used conftool before, please note that your user account of former conferences is not valid any more.</li>
-                <li>After creating an accound you will be able to select "Submit Contribution" (opening on <b>Month XX, 2025</b>).</li>
+                <li>After creating an accound you will be able to select "Submit Contribution" (opening on <b>May 15, 2025</b>).</li>
                 <li>Please enter all required details for your contribution into the submission form (marked by asterisk) and proceed.</li>
                 <li>Until the submission deadline, you can update your contribution details or withdraw the contribution.</li>
             </ul>
