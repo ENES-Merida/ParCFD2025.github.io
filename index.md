@@ -10,7 +10,7 @@ show_sidebar: false
 
 ## News
 
-* 15.05.2025 - Abstract submission has opens [click here](/call-papers).
+* 15.05.2025 - Abstract submission system has opened [click here](/call-papers).
 * 13.05.2025 - Abstract submission opens on May 15.
 * 05.04.2025 - The list of accepted mini-symposia can be found [here](/accepted-minisymposia).
 
