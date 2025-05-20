@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Convergence of Artificial Intelligence and High-Performance Computing for Computational Fluid Dynamics
+title: High Performance Computing and AI for Atmospheric and Oceanic Flows on Exascale Computers
 subtitle: Mini-Symposia IV
 hero_image:  /img/plazaGrandeSideA.webp
 hero_height: is-halfheight
