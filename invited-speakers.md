@@ -14,7 +14,7 @@ The following renowned experts will join us at ParCFD 2025 to enrich our confere
 
 ## Matthias Möller - Delft University of Technology
 
-<img loading="lazy" src="/ParCFD2025.github.io/img/moller.webp" alt="Invited Speakers" style="width: 300px; height: auto; display: block; margin: 0 auto"/>
+<img loading="lazy" src="/img/moller.webp" alt="Invited Speakers" style="width: 300px; height: auto; display: block; margin: 0 auto"/>
 
 Matthias Möller is Associate Professor of Numerical Analysis at Delft University of Technology, The Netherlands. He holds a PhD degree in Mathematics from TU Dortmund University and joined TU Delft in 2013. He is currently leading the quantum-CFD lab which is a joined research initiative between TU Delft and Fujitsu Limited, Japan. Matthias’ research focuses on the development of numerical methods for fluid flow applications both on conventional and emerging compute technologies. His particular interest is in finite element and isogeometric analysis as well as lattice Boltzmann methods. He has (co-)authored more than 70 research articles and book chapters and is member of the advisory council of the DLR Quantum Computing Initiative. Matthias is moreover one of the PIs in the TU Delft QAIMS-lab, which focuses on quantum-enhanced AI solutions for sustainable materials and structural designs in Aerospace.
 
