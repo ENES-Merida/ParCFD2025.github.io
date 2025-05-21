@@ -8,29 +8,29 @@ hero_darken: true
 show_sidebar: false
 ---
 
-{% include notification.html message="
-Site under construction, information will be updated very soon." %}
+<!-- {% include notification.html message="Site under construction, information will be updated very soon." %} -->
 
 The following renowned experts will join us at ParCFD 2025 to enrich our conference with keynote lectures on various topics of interest to our CFD community.
 
-<!--
+## Matthias Möller - Delft University of Technology
 
-<img loading="lazy" src="/ParCFD2025.github.io/img/2025_mexico.jpg" alt="Invited Speakers" style="width: 200px; height: auto; display: block; margin: 0 auto"/>
+<img loading="lazy" src="/ParCFD2025.github.io/img/moller.webp" alt="Invited Speakers" style="width: 300px; height: auto; display: block; margin: 0 auto"/>
 
-## Lennart Schneiders - SIEMENS Digital Industries Software
+Matthias Möller is Associate Professor of Numerical Analysis at Delft University of Technology, The Netherlands. He holds a PhD degree in Mathematics from TU Dortmund University and joined TU Delft in 2013. He is currently leading the quantum-CFD lab which is a joined research initiative between TU Delft and Fujitsu Limited, Japan. Matthias’ research focuses on the development of numerical methods for fluid flow applications both on conventional and emerging compute technologies. His particular interest is in finite element and isogeometric analysis as well as lattice Boltzmann methods. He has (co-)authored more than 70 research articles and book chapters and is member of the advisory council of the DLR Quantum Computing Initiative. Matthias is moreover one of the PIs in the TU Delft QAIMS-lab, which focuses on quantum-enhanced AI solutions for sustainable materials and structural designs in Aerospace.
 
-Lennart Schneiders is a Software Engineer and researcher at Siemens Digital Industries Software. He received his PhD from RWTH Aachen University in 2017. Until 2022, he was a postdoctoral researcher at RWTH Aachen, Jülich Aachen Research Alliance, and California Institute of Technology. Lennart is currently a developer of the multiphysics CFD software Simcenter STAR-CCM+. His research interests lie in numerical method development, turbulent multiphase flow, and high-performance computing.
-
-**Title of Lennart&#x27;s keynote lecture:** *The intricacies of adaptive unstructured mesh refinement for industrial flows.*
+**Title of Möller's keynote lecture:** *Quantum lattice Boltzmann methods*
 
 **Abstract:**
 
-*The simulation of industrial flows is associated with significant uncertainties arising from the quality of the computational mesh. In many industries, meshing therefore is considered an expert job. With the advances in parallel computing and GPU hardware reducing solver times, meshing can become a bottleneck in certain industrial workflows. While adaptive mesh refinement (AMR) is an intriguing approach to alleviate some of those problems, developing such a technique in a robust form is a challenge in its own.*
+*Quantum computing (QC) is an emerging compute technology that has the potential to radically change the way we will be solving CFD problems in the future. The potential power of QC stems from the exploitation of quantum mechanical principles, namely, superposition of states, entanglement and quantum parallelism. With properly designed quantum algorithms that fully exploit these properties it will be possible to solve certain types of computational problems up to exponentially faster or with exponentially less memory storage compared to classical counterparts. However, this requires the complete redesign of the solution procedure from scratch rather than a simple "porting" of classical algorithms to quantum computers.*
 
-*In this talk, the intricacies of developing a general purpose AMR scheme are discussed. This includes the definition of generic solution-based refinement strategies. And it will be demonstrated that refining an unstructured mesh does not automatically guarantee lower truncation errors, but can even lead to the opposite.*
+*In this presentation, I will discuss the current state of the art of quantum lattice Boltzmann methods (QLBM). In particular, I will present different approaches to store ("encode") grid data efficiently in the quantum register and perform the computational steps of the LBM - streaming, collision, and boundary treatment - as efficiently executable quantum circuits. The main challenge lies in designing the data encoding scheme and the quantum circuits in a way that exploits quantum mechanical principles, delivers (at least theoretically) a speed up over classical LBM, and is implementable on (future) quantum computers. The next challenge lies in the efficient extraction of meaningful information via measurement, which is the only way to read out data from a quantum computer. Since the measurement-based read-out of full flow fields is very inefficient, we have developed a quantum variant of the widely-used momentum exchange method (MEM) that calculates the forces acting on objects from which user-defined quantities of interest like the drag or lift coefficient can be calculated in a post processing step.*
+
+*Next to discussing the algorithmic building blocks of quantum lattice Boltzmann methods from a conceptual perspective, I will present an end-to-end quantum LBM application and first numerical results in 2D and 3D obtained with our open-source QLBM software on quantum computer simulators.*
 
 ---
 
+<!--
 <img loading="lazy" src="/ParCFD2025.github.io/img/2025_mexico.jpg" alt="Invited Speakers" style="width: 200px; height: auto; display: block; margin: 0 auto"/>
 
 ## Christian Hasse - Technical University Darmstadt, Simulation of reactive Thermo-Fluid Systems
