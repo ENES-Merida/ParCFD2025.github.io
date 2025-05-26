@@ -10,6 +10,7 @@ show_sidebar: false
 
 ## News
 
+* 26.05.2025 - Invited Speaker, Matthias Möller: Quantum lattice Boltzmann methods [click here](/invited-speakers).
 * 15.05.2025 - Abstract submission system has opened [click here](/call-papers).
 * 13.05.2025 - Abstract submission opens on May 15.
 * 05.04.2025 - The list of accepted mini-symposia can be found [here](/accepted-minisymposia).
