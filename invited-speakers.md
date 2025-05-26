@@ -12,21 +12,31 @@ show_sidebar: false
 
 The following renowned experts will join us at ParCFD 2025 to enrich our conference with keynote lectures on various topics of interest to our CFD community.
 
-## Matthias Möller - Delft University of Technology
+<h2 class="has-text-centered">
+    Matthias Möller - Delft University of Technology
+</h2>
 
-<img loading="lazy" src="/img/moller.webp" alt="Invited Speakers" style="width: 300px; height: auto; display: block; margin: 0 auto"/>
+<img loading="lazy" src="{{ site.baseurl }}/img/moller.webp" alt="Invited Speakers" style="width: 300px; height: auto; display: block; margin: 0 auto"/>
 
-Matthias Möller is Associate Professor of Numerical Analysis at Delft University of Technology, The Netherlands. He holds a PhD degree in Mathematics from TU Dortmund University and joined TU Delft in 2013. He is currently leading the quantum-CFD lab which is a joined research initiative between TU Delft and Fujitsu Limited, Japan. Matthias’ research focuses on the development of numerical methods for fluid flow applications both on conventional and emerging compute technologies. His particular interest is in finite element and isogeometric analysis as well as lattice Boltzmann methods. He has (co-)authored more than 70 research articles and book chapters and is member of the advisory council of the DLR Quantum Computing Initiative. Matthias is moreover one of the PIs in the TU Delft QAIMS-lab, which focuses on quantum-enhanced AI solutions for sustainable materials and structural designs in Aerospace.
+<p class="has-text-justified">
+    Matthias Möller is Associate Professor of Numerical Analysis at Delft University of Technology, The Netherlands. He holds a PhD degree in Mathematics from TU Dortmund University and joined TU Delft in 2013. He is currently leading the quantum-CFD lab which is a joined research initiative between TU Delft and Fujitsu Limited, Japan. Matthias’ research focuses on the development of numerical methods for fluid flow applications both on conventional and emerging compute technologies. His particular interest is in finite element and isogeometric analysis as well as lattice Boltzmann methods. He has (co-)authored more than 70 research articles and book chapters and is member of the advisory council of the DLR Quantum Computing Initiative. Matthias is moreover one of the PIs in the TU Delft QAIMS-lab, which focuses on quantum-enhanced AI solutions for sustainable materials and structural designs in Aerospace.
+</p>
 
 **Title of Möller's keynote lecture:** *Quantum lattice Boltzmann methods*
 
 **Abstract:**
 
-*Quantum computing (QC) is an emerging compute technology that has the potential to radically change the way we will be solving CFD problems in the future. The potential power of QC stems from the exploitation of quantum mechanical principles, namely, superposition of states, entanglement and quantum parallelism. With properly designed quantum algorithms that fully exploit these properties it will be possible to solve certain types of computational problems up to exponentially faster or with exponentially less memory storage compared to classical counterparts. However, this requires the complete redesign of the solution procedure from scratch rather than a simple "porting" of classical algorithms to quantum computers.*
+<p class="has-text-justified">
+    <em>Quantum computing (QC) is an emerging compute technology that has the potential to radically change the way we will be solving CFD problems in the future. The potential power of QC stems from the exploitation of quantum mechanical principles, namely, superposition of states, entanglement and quantum parallelism. With properly designed quantum algorithms that fully exploit these properties it will be possible to solve certain types of computational problems up to exponentially faster or with exponentially less memory storage compared to classical counterparts. However, this requires the complete redesign of the solution procedure from scratch rather than a simple "porting" of classical algorithms to quantum computers.</em>
+</p>
 
-*In this presentation, I will discuss the current state of the art of quantum lattice Boltzmann methods (QLBM). In particular, I will present different approaches to store ("encode") grid data efficiently in the quantum register and perform the computational steps of the LBM - streaming, collision, and boundary treatment - as efficiently executable quantum circuits. The main challenge lies in designing the data encoding scheme and the quantum circuits in a way that exploits quantum mechanical principles, delivers (at least theoretically) a speed up over classical LBM, and is implementable on (future) quantum computers. The next challenge lies in the efficient extraction of meaningful information via measurement, which is the only way to read out data from a quantum computer. Since the measurement-based read-out of full flow fields is very inefficient, we have developed a quantum variant of the widely-used momentum exchange method (MEM) that calculates the forces acting on objects from which user-defined quantities of interest like the drag or lift coefficient can be calculated in a post processing step.*
+<p class="has-text-justified">
+    <em>In this presentation, I will discuss the current state of the art of quantum lattice Boltzmann methods (QLBM). In particular, I will present different approaches to store ("encode") grid data efficiently in the quantum register and perform the computational steps of the LBM - streaming, collision, and boundary treatment - as efficiently executable quantum circuits. The main challenge lies in designing the data encoding scheme and the quantum circuits in a way that exploits quantum mechanical principles, delivers (at least theoretically) a speed up over classical LBM, and is implementable on (future) quantum computers. The next challenge lies in the efficient extraction of meaningful information via measurement, which is the only way to read out data from a quantum computer. Since the measurement-based read-out of full flow fields is very inefficient, we have developed a quantum variant of the widely-used momentum exchange method (MEM) that calculates the forces acting on objects from which user-defined quantities of interest like the drag or lift coefficient can be calculated in a post processing step.</em>
+</p>
 
-*Next to discussing the algorithmic building blocks of quantum lattice Boltzmann methods from a conceptual perspective, I will present an end-to-end quantum LBM application and first numerical results in 2D and 3D obtained with our open-source QLBM software on quantum computer simulators.*
+<p class="has-text-justified">
+    <em>Next to discussing the algorithmic building blocks of quantum lattice Boltzmann methods from a conceptual perspective, I will present an end-to-end quantum LBM application and first numerical results in 2D and 3D obtained with our open-source QLBM software on quantum computer simulators.</em>
+</p>
 
 ---
 
