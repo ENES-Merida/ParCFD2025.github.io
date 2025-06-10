@@ -8,35 +8,80 @@ hero_darken: true
 show_sidebar: false
 ---
 
-<!-- {% include notification.html message="Site under construction, information will be updated very soon." %} -->
+##### Key Dates
 
-|Key Dates||
-| - | - |
-| Feb. 17, 2025 | Mini-symposia submission opening |
-| Mar. 28, 2025 (extended deadline) | Mini-symposia submission deadline |
-| Apr. 4, 2025 | Mini-symposia acceptance notification |
-| May. 15, 2025 | Abstract submission opening |
-| Jul. 7, 2025 | Abstract submission deadline |
-| Jul. 28, 2025 | Abstract acceptance notification |
-| Nov. 24 - 26, 2025 | ParCFD 2025 conference |
+<table class="table is-fullwidth is-hoverable is-striped">
+    <thead>
+        <tr>
+            <th></th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td> Feb. 17, 2025 </td> 
+            <td> Mini-symposia submission opening </td>
+        </tr>
+        <tr>
+            <td> Mar. 28, 2025 (extended deadline) </td>
+            <td> Mini-symposia submission deadline </td>
+        </tr>
+        <tr>
+            <td> Apr. 4, 2025 </td>
+            <td> Mini-symposia acceptance notification </td>
+        </tr>
+        <tr>
+            <td> May. 15, 2025 </td>
+            <td> Abstract submission opening </td>
+        </tr>
+        <tr>
+            <td> Jul. 7, 2025 </td>
+            <td> Abstract submission deadline </td>
+        </tr>
+        <tr>
+            <td> Jul. 28, 2025 </td>
+            <td> Abstract acceptance notification </td>
+        </tr>
+        <tr>
+            <td> Jul. 28, 2025 </td>
+            <td> Registration opening </td>
+        </tr>
+        <tr>
+            <td> Aug. 11, 2025 </td>
+            <td> Early-bird registration deadline </td>
+        </tr>
+        <tr>
+            <td> Nov. 24 - 26, 2025 </td>
+            <td> ParCFD 2025 conference </td>
+        </tr>
+    </tbody>
+</table>
 
-<!--
-| Jul. 8, 2024 | Registration opening |
-| Jul. 21, 2024 | Early-bird registration deadline |
-| Aug. 9, 2024 | Registration deadline |
--->
+##### Registration
 
-To submit a mini-symposium abstract, please find more information [here](/call-minisymposia). For abstract submissions for accepted mini-symposia, more information can be found [here](/call-papers).
+Instructions for abstract submission can be found [here](/call-papers).
 
-<!--
-The registration opens on July 8th, 2024. You will have the following options:
+Registration opens on July 28, 2025. You will have the following options:
 
-| Registration | Student | Student (virtual) | Regular | Regular (virtual) |
-| - | - | - | - | - |
-| Early-bird | 420 € | 150 € | 580 € | 250 € | 
-| Full | 525 € | 150 € | 725 € | 250 € |
-
-
- {% include notification.html message="Early-bird registration is possible until July 21st, 2024. The register open soon." %}
- 
- -->
+ <table class="table is-fullwidth is-hoverable is-striped">
+     <thead>
+         <tr>
+             <th>Registration</th>
+             <th>Student</th>
+             <th>Regular</th>
+         </tr>
+     </thead>
+     <tbody>
+         <tr>
+             <td>Early-bird</td> 
+             <td>US$ 450</td>
+             <td>US$ 562.50</td>
+         </tr>
+         <tr>
+             <td>Full</td> 
+             <td>US$ 621</td>
+             <td>US$ 776.25</td>
+         </tr>
+     </tbody>
+ </table>
+ Early-bird registration is possible until August 11, 2025. The register opens soon.
