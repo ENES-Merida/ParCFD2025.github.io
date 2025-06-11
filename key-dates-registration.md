@@ -65,20 +65,20 @@ Registration opens on July 28, 2025. You will have the following options:
 
  <table class="table is-fullwidth is-hoverable is-striped">
      <thead>
-         <tr>
+         <tr class="has-text-centered">
              <th>Registration</th>
              <th>Student</th>
-             <th>Regular</th>
+             <th>Full</th>
          </tr>
      </thead>
-     <tbody>
+     <tbody class="has-text-centered">
          <tr>
              <td>Early-bird</td> 
              <td>US$ 450</td>
              <td>US$ 562.50</td>
          </tr>
          <tr>
-             <td>Full</td> 
+             <td>Regular</td> 
              <td>US$ 621</td>
              <td>US$ 776.25</td>
          </tr>
