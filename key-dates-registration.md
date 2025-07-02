@@ -19,19 +19,19 @@ show_sidebar: false
     </thead>
     <tbody>
         <tr>
-            <td> Feb. 17, 2025 </td> 
+            <td> <del>Feb. 17, 2025</del> </td> 
             <td> Mini-symposia submission opening </td>
         </tr>
         <tr>
-            <td> Mar. 28, 2025 (extended deadline) </td>
+            <td> <del>Mar. 28, 2025 (extended deadline)</del> </td>
             <td> Mini-symposia submission deadline </td>
         </tr>
         <tr>
-            <td> Apr. 4, 2025 </td>
+            <td> <del>Apr. 4, 2025</del> </td>
             <td> Mini-symposia acceptance notification </td>
         </tr>
         <tr>
-            <td> May. 15, 2025 </td>
+            <td> <del>May. 15, 2025</del> </td>
             <td> Abstract submission opening </td>
         </tr>
         <tr>
