@@ -38,6 +38,49 @@ The following renowned experts will join us at ParCFD 2025 to enrich our confere
     <em>Next to discussing the algorithmic building blocks of quantum lattice Boltzmann methods from a conceptual perspective, I will present an end-to-end quantum LBM application and first numerical results in 2D and 3D obtained with our open-source QLBM software on quantum computer simulators.</em>
 </p>
 
+<!-- --- -->
+
+<!-- <h2 class="has-text-centered">
+    Dr. Héctor Benítez Pérez - UNAM
+</h2>
+
+<img loading="lazy" src="{{ site.baseurl }}/img/DrHectorBenitezPerez.webp" alt="Invited Speakers" style="width: 300px; height: auto; display: block; margin: 0 auto"/>
+
+<p class="has-text-justified">
+    Dr. Héctor Benítez Pérez graduated with honors in Mechanical and Electrical Engineering from UNAM and obtained his PhD from the University of Sheffield in the Department of Automatic Control and Systems Engineering. He was director of IIMAS and currently heads the DGTIC (General Directorate of Information and Communication Technologies) at UNAM. As a researcher, he has extensive scientific output and is a member of the National System of Researchers.
+    <br/>
+    <br/>
+    He has served on the University Council, the Academic Council of the Area of ​​Physical and Mathematical Sciences and Engineering, as well as on other university committees and commissions. He is a member of the Mexican Academy of Sciences and the Mexican Academy of Engineering.
+    <br/>
+    <br/>
+    In academic matters, he stands out for the creation of the Bachelor's Degree in Data Science and the High-Performance Computing specialty and has participated in numerous research projects and technological developments, especially in neural networks and data science.
+    <br/>
+    <br/>
+    Recognized as one of the most cited academics in the field of computing, he received recognition for outstanding contribution in the ELSEVIER Journal of Engineering Application of Artificial Intelligence and the ELSEVIER Journal of the Franklin Institute. In 2024, he was honored with the Wolfram Innovator Award.
+    <br/>
+    <br/>
+    As Director of Computing and Information and Communication Technologies at UNAM, he has strengthened ICT governance and cybersecurity, consolidated cloud services, virtual desktops, advanced electronic signature systems, and a digital vault, and led efforts to establish a federated system for supercomputing with the GRID UNAM initiative.
+    <br/>
+    <br/>
+    He has promoted the introduction of quantum computing through simulator testing with the participation of the research community; he has promoted courses, workshops, and diploma programs on innovative technology topics; he has systematized school administration processes for graduation; and he has created publication spaces for technical reports on ICT projects and services. He has spearheaded Macrotraining in Artificial Intelligence to promote talent development and academic collaboration among students at universities and academic institutions in Latin America and the Caribbean, and has participated in the organization of forums, workshops, and meetings to promote research on Artificial Intelligence in Mexico. He also contributes to various academic networks to support the development of high-value ICTs in higher education institutions.
+</p>
+
+**Title of Benítez's keynote lecture:** 
+
+**Abstract:** -->
+
+<!-- <p class="has-text-justified">
+    <em>Quantum computing (QC) is an emerging compute technology that has the potential to radically change the way we will be solving CFD problems in the future. The potential power of QC stems from the exploitation of quantum mechanical principles, namely, superposition of states, entanglement and quantum parallelism. With properly designed quantum algorithms that fully exploit these properties it will be possible to solve certain types of computational problems up to exponentially faster or with exponentially less memory storage compared to classical counterparts. However, this requires the complete redesign of the solution procedure from scratch rather than a simple "porting" of classical algorithms to quantum computers.</em>
+</p>
+
+<p class="has-text-justified">
+    <em>In this presentation, I will discuss the current state of the art of quantum lattice Boltzmann methods (QLBM). In particular, I will present different approaches to store ("encode") grid data efficiently in the quantum register and perform the computational steps of the LBM - streaming, collision, and boundary treatment - as efficiently executable quantum circuits. The main challenge lies in designing the data encoding scheme and the quantum circuits in a way that exploits quantum mechanical principles, delivers (at least theoretically) a speed up over classical LBM, and is implementable on (future) quantum computers. The next challenge lies in the efficient extraction of meaningful information via measurement, which is the only way to read out data from a quantum computer. Since the measurement-based read-out of full flow fields is very inefficient, we have developed a quantum variant of the widely-used momentum exchange method (MEM) that calculates the forces acting on objects from which user-defined quantities of interest like the drag or lift coefficient can be calculated in a post processing step.</em>
+</p>
+
+<p class="has-text-justified">
+    <em>Next to discussing the algorithmic building blocks of quantum lattice Boltzmann methods from a conceptual perspective, I will present an end-to-end quantum LBM application and first numerical results in 2D and 3D obtained with our open-source QLBM software on quantum computer simulators.</em>
+</p> -->
+
 ---
 
 <!--
@@ -62,5 +105,3 @@ Prof. Hasse is elected Fellow of the Combustion Institute for his contributions 
 *In summary, in a rapidly changing environment, simulations on upcoming Exascale systems will provide physical insights that were deemed impossible just a few years ago. This will increase the impact of rCFD on the entire spectrum from fundamental science to industrial design of innovative systems.*
 
 -->
-
----
