@@ -34,6 +34,7 @@ show_sidebar: false
             <td> <del>May. 15, 2025</del> </td>
             <td> <del>Abstract submission opening</del> </td>
         </tr>
+        <!-- Comentar o eliminar desde aquí -->
         <tr>
             <td> Jul. 7, 2025 </td>
             <td> Abstract submission deadline </td>
@@ -50,6 +51,29 @@ show_sidebar: false
             <td> Aug. 11, 2025 </td>
             <td> Early-bird registration deadline </td>
         </tr>
+        <!-- hasta aquí -->
+        <!-- Descomentar a partir de aquí -->
+        <!-- <tr>
+            <td> <del>Jul. 7, 2025</del> </td>
+            <td> <del>Abstract submission deadline</del> </td>
+        </tr>
+        <tr>
+            <td> <strong>Jul. 21, 2025</strong> </td>
+            <td> <strong>Abstract submission deadline (extended)</strong> </td>
+        </tr>
+        <tr>
+            <td> Aug. 18, 2025 </td>
+            <td> Abstract acceptance notification </td>
+        </tr>
+        <tr>
+            <td> Aug. 18, 2025 </td>
+            <td> Registration opening </td>
+        </tr>
+        <tr>
+            <td> Aug. 25, 2025 </td>
+            <td> Early-bird registration deadline </td>
+        </tr> -->
+        <!-- hasta aquí -->
         <tr>
             <td> Nov. 24 - 26, 2025 </td>
             <td> ParCFD 2025 conference </td>
