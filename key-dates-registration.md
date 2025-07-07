@@ -108,4 +108,4 @@ Registration opens on July 28, 2025. You will have the following options:
          </tr>
      </tbody>
  </table>
- Early-bird registration is possible until August 11, 2025. The register opens soon.
+ Early-bird registration is possible until August 18, 2025. The register opens soon.
