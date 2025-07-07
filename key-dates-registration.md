@@ -35,7 +35,7 @@ show_sidebar: false
             <td> <del>Abstract submission opening</del> </td>
         </tr>
         <!-- Comentar o eliminar desde aquí -->
-        <tr>
+        <!-- <tr>
             <td> Jul. 7, 2025 </td>
             <td> Abstract submission deadline </td>
         </tr>
@@ -50,10 +50,10 @@ show_sidebar: false
         <tr>
             <td> Aug. 11, 2025 </td>
             <td> Early-bird registration deadline </td>
-        </tr>
+        </tr> -->
         <!-- hasta aquí -->
         <!-- Descomentar a partir de aquí -->
-        <!-- <tr>
+        <tr>
             <td> <del>Jul. 7, 2025</del> </td>
             <td> <del>Abstract submission deadline</del> </td>
         </tr>
@@ -72,7 +72,7 @@ show_sidebar: false
         <tr>
             <td> Aug. 25, 2025 </td>
             <td> Early-bird registration deadline </td>
-        </tr> -->
+        </tr>
         <!-- hasta aquí -->
         <tr>
             <td> Nov. 24 - 26, 2025 </td>
