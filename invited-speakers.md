@@ -38,25 +38,19 @@ The following renowned experts will join us at ParCFD 2025 to enrich our confere
     <em>Next to discussing the algorithmic building blocks of quantum lattice Boltzmann methods from a conceptual perspective, I will present an end-to-end quantum LBM application and first numerical results in 2D and 3D obtained with our open-source QLBM software on quantum computer simulators.</em>
 </p>
 
-<!-- --- -->
+---
 
-<!-- <h2 class="has-text-centered">
+<h2 class="has-text-centered">
     Dr. Héctor Benítez Pérez - UNAM
 </h2>
 
 <img loading="lazy" src="{{ site.baseurl }}/img/DrHectorBenitezPerez.webp" alt="Invited Speakers" style="width: 300px; height: auto; display: block; margin: 0 auto"/>
 
 <p class="has-text-justified">
-    Dr. Héctor Benítez Pérez graduated with honors in Mechanical and Electrical Engineering from UNAM and obtained his PhD from the University of Sheffield in the Department of Automatic Control and Systems Engineering. He was director of IIMAS and currently heads the DGTIC (General Directorate of Information and Communication Technologies) at UNAM. As a researcher, he has extensive scientific output and is a member of the National System of Researchers.
+    Dr. Héctor Benítez Pérez graduated with honors in Mechanical and Electrical Engineering from UNAM and obtained his PhD from the University of Sheffield in the Department of Automatic Control and Systems Engineering. He was director of IIMAS and currently heads the DGTIC (General Directorate of Information and Communication Technologies) at UNAM. As a researcher, he has extensive scientific output and is a member of the National System of Researchers. He has served on the University Council, the Academic Council of the Area of Physical and Mathematical Sciences and Engineering, as well as on other university committees and commissions. He is a member of the Mexican Academy of Sciences and the Mexican Academy of Engineering.
     <br/>
     <br/>
-    He has served on the University Council, the Academic Council of the Area of ​​Physical and Mathematical Sciences and Engineering, as well as on other university committees and commissions. He is a member of the Mexican Academy of Sciences and the Mexican Academy of Engineering.
-    <br/>
-    <br/>
-    In academic matters, he stands out for the creation of the Bachelor's Degree in Data Science and the High-Performance Computing specialty and has participated in numerous research projects and technological developments, especially in neural networks and data science.
-    <br/>
-    <br/>
-    Recognized as one of the most cited academics in the field of computing, he received recognition for outstanding contribution in the ELSEVIER Journal of Engineering Application of Artificial Intelligence and the ELSEVIER Journal of the Franklin Institute. In 2024, he was honored with the Wolfram Innovator Award.
+    In academic matters, he stands out for the creation of the Bachelor's Degree in Data Science and the High-Performance Computing specialty and has participated in numerous research projects and technological developments, especially in neural networks and data science. Recognized as one of the most cited academics in the field of computing, he received recognition for outstanding contribution in the ELSEVIER Journal of Engineering Application of Artificial Intelligence and the ELSEVIER Journal of the Franklin Institute. In 2024, he was honored with the Wolfram Innovator Award.
     <br/>
     <br/>
     As Director of Computing and Information and Communication Technologies at UNAM, he has strengthened ICT governance and cybersecurity, consolidated cloud services, virtual desktops, advanced electronic signature systems, and a digital vault, and led efforts to establish a federated system for supercomputing with the GRID UNAM initiative.
@@ -65,11 +59,11 @@ The following renowned experts will join us at ParCFD 2025 to enrich our confere
     He has promoted the introduction of quantum computing through simulator testing with the participation of the research community; he has promoted courses, workshops, and diploma programs on innovative technology topics; he has systematized school administration processes for graduation; and he has created publication spaces for technical reports on ICT projects and services. He has spearheaded Macrotraining in Artificial Intelligence to promote talent development and academic collaboration among students at universities and academic institutions in Latin America and the Caribbean, and has participated in the organization of forums, workshops, and meetings to promote research on Artificial Intelligence in Mexico. He also contributes to various academic networks to support the development of high-value ICTs in higher education institutions.
 </p>
 
-**Title of Benítez's keynote lecture:** 
+**Title of Benítez's keynote lecture:** *High Performance Computing at UNAM: New Paradigm* 
 
-**Abstract:** -->
+<!-- **Abstract:**
 
-<!-- <p class="has-text-justified">
+<p class="has-text-justified">
     <em>Quantum computing (QC) is an emerging compute technology that has the potential to radically change the way we will be solving CFD problems in the future. The potential power of QC stems from the exploitation of quantum mechanical principles, namely, superposition of states, entanglement and quantum parallelism. With properly designed quantum algorithms that fully exploit these properties it will be possible to solve certain types of computational problems up to exponentially faster or with exponentially less memory storage compared to classical counterparts. However, this requires the complete redesign of the solution procedure from scratch rather than a simple "porting" of classical algorithms to quantum computers.</em>
 </p>
 
