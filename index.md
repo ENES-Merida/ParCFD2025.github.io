@@ -10,6 +10,7 @@ show_sidebar: false
 
 ## News
 
+* 09.07.2025 - Invited Speaker, Hector Benítez: High Performance Computing at UNAM: New Paradigm [click here](/invited-speakers).
 * 10.06.2025 - The Proceedings of the 35th Parallel CFD International Conference 2024 have been published [click here](https://juser.fz-juelich.de/record/1042307).
 * 26.05.2025 - Invited Speaker, Matthias Möller: Quantum lattice Boltzmann methods [click here](/invited-speakers).
 * 15.05.2025 - Abstract submission system has opened [click here](/call-papers).
