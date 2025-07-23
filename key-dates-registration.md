@@ -58,7 +58,11 @@ show_sidebar: false
             <td> <del>Abstract submission deadline</del> </td>
         </tr>
         <tr>
-            <td> <strong>Jul. 21, 2025</strong> </td>
+            <td> <del>Jul. 21, 2025</del> </td>
+            <td> <del>Abstract submission deadline (extended)</del> </td>
+        </tr>
+        <tr>
+            <td> <strong>Jul. 28, 2025</strong> </td>
             <td> <strong>Abstract submission deadline (extended)</strong> </td>
         </tr>
         <tr>
