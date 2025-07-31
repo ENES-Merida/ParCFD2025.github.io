@@ -34,25 +34,6 @@ show_sidebar: false
             <td> <del>May. 15, 2025</del> </td>
             <td> <del>Abstract submission opening</del> </td>
         </tr>
-        <!-- Comentar o eliminar desde aquí -->
-        <!-- <tr>
-            <td> Jul. 7, 2025 </td>
-            <td> Abstract submission deadline </td>
-        </tr>
-        <tr>
-            <td> Jul. 28, 2025 </td>
-            <td> Abstract acceptance notification </td>
-        </tr>
-        <tr>
-            <td> Jul. 28, 2025 </td>
-            <td> Registration opening </td>
-        </tr>
-        <tr>
-            <td> Aug. 11, 2025 </td>
-            <td> Early-bird registration deadline </td>
-        </tr> -->
-        <!-- hasta aquí -->
-        <!-- Descomentar a partir de aquí -->
         <tr>
             <td> <del>Jul. 7, 2025</del> </td>
             <td> <del>Abstract submission deadline</del> </td>
@@ -66,18 +47,17 @@ show_sidebar: false
             <td> <strong>Abstract submission deadline (extended)</strong> </td>
         </tr>
         <tr>
-            <td> Aug. 18, 2025 </td>
+            <td> Aug. 25, 2025 </td>
             <td> Abstract acceptance notification </td>
         </tr>
         <tr>
-            <td> Aug. 18, 2025 </td>
+            <td> Aug. 25, 2025 </td>
             <td> Registration opening </td>
         </tr>
         <tr>
-            <td> Aug. 25, 2025 </td>
+            <td> Sept. 01, 2025 </td>
             <td> Early-bird registration deadline </td>
         </tr>
-        <!-- hasta aquí -->
         <tr>
             <td> Nov. 24 - 26, 2025 </td>
             <td> ParCFD 2025 conference </td>
@@ -89,7 +69,7 @@ show_sidebar: false
 
 Instructions for abstract submission can be found [here](/call-papers).
 
-Registration opens on July 28, 2025. You will have the following options:
+Registration opens on August 25, 2025. You will have the following options:
 
  <table class="table is-fullwidth is-hoverable is-striped">
      <thead>
@@ -112,4 +92,4 @@ Registration opens on July 28, 2025. You will have the following options:
          </tr>
      </tbody>
  </table>
- Early-bird registration is possible until August 18, 2025. The register opens soon.
+ Early-bird registration is possible until September 01, 2025. The register opens soon.
