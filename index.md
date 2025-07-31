@@ -11,9 +11,9 @@ show_sidebar: false
 ## News
 
 * 23.07.2025 - Abstract submission deadline (extended): Jul. 28, 2025 [click here](/key-dates-registration).
-* 09.07.2025 - Invited Speaker, Hector Benítez: High Performance Computing at UNAM: New Paradigm [click here](/invited-speakers).
+* 09.07.2025 - Invited Speaker, Hector Benítez: High Performance Computing at UNAM: New Paradigm [click here](/invited-speakers#speaker-2).
 * 10.06.2025 - The Proceedings of the 35th Parallel CFD International Conference 2024 have been published [click here](https://juser.fz-juelich.de/record/1042307).
-* 26.05.2025 - Invited Speaker, Matthias Möller: Quantum lattice Boltzmann methods [click here](/invited-speakers).
+* 26.05.2025 - Invited Speaker, Matthias Möller: Quantum lattice Boltzmann methods [click here](/invited-speakers#speaker-1).
 * 15.05.2025 - Abstract submission system has opened [click here](/call-papers).
 * 13.05.2025 - Abstract submission opens on May 15.
 * 05.04.2025 - The list of accepted mini-symposia can be found [here](/accepted-minisymposia).

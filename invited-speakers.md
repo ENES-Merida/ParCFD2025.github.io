@@ -12,7 +12,7 @@ show_sidebar: false
 
 The following renowned experts will join us at ParCFD 2025 to enrich our conference with keynote lectures on various topics of interest to our CFD community.
 
-<h2 class="has-text-centered">
+<h2 id="speaker-1" class="has-text-centered">
     Matthias Möller - Delft University of Technology
 </h2>
 
@@ -40,7 +40,7 @@ The following renowned experts will join us at ParCFD 2025 to enrich our confere
 
 ---
 
-<h2 class="has-text-centered">
+<h2 id="speaker-2" class="has-text-centered">
     Dr. Héctor Benítez Pérez - UNAM
 </h2>
 
