@@ -43,12 +43,12 @@ show_sidebar: false
             <td> <del>Abstract submission deadline (extended)</del> </td>
         </tr>
         <tr>
-            <td> <strong>Jul. 28, 2025</strong> </td>
-            <td> <strong>Abstract submission deadline (extended)</strong> </td>
+            <td> <del>Jul. 28, 2025</del> </td>
+            <td> <del>Abstract submission deadline (extended)</del> </td>
         </tr>
         <tr>
-            <td> Aug. 25, 2025 </td>
-            <td> Abstract acceptance notification </td>
+            <td> <strong>Aug. 25, 2025</strong> </td>
+            <td> <strong>Abstract acceptance notification</strong> </td>
         </tr>
         <tr>
             <td> Aug. 25, 2025 </td>
