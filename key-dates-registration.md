@@ -51,8 +51,8 @@ show_sidebar: false
             <td> <strong>Abstract acceptance notification</strong> </td>
         </tr>
         <tr>
-            <td> Aug. 25, 2025 </td>
-            <td> Registration opening </td>
+            <td> <strong>Aug. 25, 2025</strong> </td>
+            <td> <strong>Registration opening</strong> </td>
         </tr>
         <tr>
             <td> Sept. 01, 2025 </td>
@@ -92,4 +92,12 @@ Registration opens on August 25, 2025. You will have the following options:
          </tr>
      </tbody>
  </table>
- Early-bird registration is possible until September 01, 2025. The register opens soon.
+ Early-bird registration is possible until September 01, 2025.
+ <br/><br/>
+ <strong>The register is open</strong>. To register to the event please use the portal below.
+ <div class="has-text-centered">
+     <!-- <a href="https://www.conftool.net/parcfd2025/" class="button is-primary" onclick="event.preventDefault()" disabled> -->
+     <a href="https://www.conftool.net/parcfd2025/" class="button is-primary">
+         Registration System
+     </a>
+ </div>
