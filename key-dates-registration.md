@@ -67,7 +67,7 @@ show_sidebar: false
 
 ##### Registration
 
-Instructions for abstract submission can be found [here](/call-papers).
+<!--Instructions for abstract submission can be found [here](/call-papers).-->
 
 Registration opens on August 25, 2025. You will have the following options:
 

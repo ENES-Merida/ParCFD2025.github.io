@@ -7,7 +7,6 @@ hero_height: is-halfheight
 hero_darken: true
 show_sidebar: false
 ---
-Traveling to Mérida
 
 There are many direct international flight options to Mérida International Airport (most from the U.S.). You can also arrive in Mérida with a domestic flight from Mexico City, or alternatively, fly to Cancún International Airport and then arrive in Mérida with a land trip of approximately 4 hours by train or bus.
 
