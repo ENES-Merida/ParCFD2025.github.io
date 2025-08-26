@@ -8,7 +8,7 @@ hero_darken: true
 show_sidebar: false
 ---
 
-{% include notification.html message="Site under construction, information will be updated very soon." %}
+<!--{% include notification.html message="Site under construction, information will be updated very soon." %}-->
 
 The conference will take place at the ["Centro Cultural Universitario"](https://www.cultura.uady.mx/ccu.html) (CCU), located in the downtown area of [Mérida City](https://visitmerida.mx/). CCU  is the main hub of activities at the Autonomous University of Yucatán. It is located in the historic building that housed the University since its beginnings. The spaces it comprises are a fundamental support for teaching, research, and cultural promotion. For the local community, it represents the heart of the arts and sciences in Yucatán.
 

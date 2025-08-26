@@ -39,6 +39,8 @@
       link: /accomodation/
     - name: Venue
       link: /venue/
+    - name: Travelling-to-CCU
+      link: /travelling-to-ccu/
 - name: Programme
   link: /#
   dropdown:
