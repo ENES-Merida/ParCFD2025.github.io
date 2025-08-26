@@ -47,15 +47,15 @@ show_sidebar: false
             <td> <del>Abstract submission deadline (extended)</del> </td>
         </tr>
         <tr>
-            <td> <strong>Aug. 25, 2025</strong> </td>
-            <td> <strong>Abstract acceptance notification</strong> </td>
+            <td> <del>Aug. 25, 2025</del> </td>
+            <td> <del>Abstract acceptance notification</del> </td>
         </tr>
         <tr>
             <td> <strong>Aug. 25, 2025</strong> </td>
             <td> <strong>Registration opening</strong> </td>
         </tr>
         <tr>
-            <td> Sept. 01, 2025 </td>
+            <td> Sept. 08, 2025 </td>
             <td> Early-bird registration deadline </td>
         </tr>
         <tr>
@@ -92,7 +92,7 @@ Registration opens on August 25, 2025. You will have the following options:
          </tr>
      </tbody>
  </table>
- Early-bird registration is possible until September 01, 2025.
+ Early-bird registration is possible until September 08, 2025.
  <br/><br/>
  <strong>The register is open</strong>. To register to the event please use the portal below.
  <div class="has-text-centered">
