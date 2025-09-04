@@ -51,12 +51,12 @@ show_sidebar: false
             <td> <del>Abstract acceptance notification</del> </td>
         </tr>
         <tr>
-            <td> <strong>Aug. 25, 2025</strong> </td>
-            <td> <strong>Registration opening</strong> </td>
+            <td> <del>Aug. 25, 2025</del> </td>
+            <td> <del>Registration opening</del> </td>
         </tr>
         <tr>
-            <td> Sept. 08, 2025 </td>
-            <td> Early-bird registration deadline </td>
+            <td> <strong>Sept. 08, 2025</strong> </td>
+            <td> <strong>Early-bird registration deadline</strong> </td>
         </tr>
         <tr>
             <td> Nov. 24 - 26, 2025 </td>
@@ -92,7 +92,12 @@ Registration opens on August 25, 2025. You will have the following options:
          </tr>
      </tbody>
  </table>
- Early-bird registration is possible until September 08, 2025.
+ <div class="notification is-info is-light has-text-centered">
+     <span class="icon text-info">
+         <i class="fas fa-info-circle"></i>
+     </span>
+    Early-bird registration is possible until September 08, 2025.
+ </div>
  <br/><br/>
  <strong>The register is open</strong>. To register to the event please use the portal below.
  <div class="has-text-centered">
