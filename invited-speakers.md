@@ -77,25 +77,32 @@ The following renowned experts will join us at ParCFD 2025 to enrich our confere
 
 ---
 
-<!--
-<img loading="lazy" src="/ParCFD2025.github.io/img/2025_mexico.jpg" alt="Invited Speakers" style="width: 200px; height: auto; display: block; margin: 0 auto"/>
+<h2 id="speaker-3" class="has-text-centered">
+    Dr. Matthias Meinke - RWTH Aachen University
+</h2>
 
-## Christian Hasse - Technical University Darmstadt, Simulation of reactive Thermo-Fluid Systems
+<img loading="lazy" src="{{ site.baseurl }}/img/matthias.webp" alt="Invited Speakers" style="width: 300px; height: auto; display: block; margin: 0 auto"/>
 
-Christian Hasse is full professor in the Department of Mechanical Engineering at Darmstadt University of Technology. He holds the chair of Simulation of reactive Thermo-Fluid Systems. He has supervised successfully more than 30 PhD students and currently 25 PhD students and post-docs are working in his group. He has more than 270 peer-reviewed publications and has served in multiple editorial boards and as associate/guest editor. He is organizer of scientific workshops and conferences focusing on sustainable combustion to achieve net zero emissions.
+<p class="has-text-justified">
+    Dr. Matthias Meinke earned his Diploma in Aerospace Engineering from RWTH Aachen University, Germany. Following this, he joined the Institute of Aerodynamics at RWTH Aachen University as a research assistant under the guidance of Prof. E. Krause. In 1993, he completed his Ph.D., presenting a dissertation focused on the Numerical Solution of the Navier-Stokes Equations for Unsteady Flows using the Multigrid Method.
+    <br/>
+    <br/>
+    Afterward, Dr. Meinke took on the role of head of the CFD department at the Institute of Aerodynamics and began teaching Computational Fluid Dynamics in both Bachelor’s and Master’s programs at RWTH Aachen University. He has extensive experience in various fields including aerodynamics, turbulence, aeroacoustics, turbomachinery, multiphase flows, and the development of advanced numerical methods.
+    <br/>
+    <br/>
+    For many years, Dr. Meinke and his team have been developing a multiphysics software framework specifically designed for high-performance computing systems. This framework is utilized in numerous national and European projects. To date, he has published over 180 peer-reviewed journal articles.
+</p>
 
-Prof. Hasse is elected Fellow of the Combustion Institute for his contributions on turbulent combustion, solid fuel combustion, multi-phase flow and soot formation. He has been elected to the Board of Directors of the International Combustion Institute in 2024. His main research interests are modeling and high-fidelity simulation of reactive and non-reactive flows, especially for CO2-free and CO2-neutral fuels such as hydrogen, ammonia, biomass, E-fuels and metals. In addition to fundamental studies on flame structures and dynamics, he also actively works on transferring these results to real-world applications including (aero-)engines, boilers and processes chemical engineering. For these topics, his group has developed a number of high-fidelity software applications that are deployed national Tier-2 and European Tier-0/1 supercomputers. In 2024 he has received an ERC Advanced Grant on aluminum steam combustion in which he aims to unravel the fundamental properties of pressurized Al-steam flames for the entire scientific chain, from single particles to turbulent flames with millions of particles, through a well-orchestrated combination of high-fidelity simulations, advanced modeling, and tailored experiments.
+<strong>Title of Meinke's keynote lecture:</strong> <em>Efficient Coupled Multiphysics Simulations based on Hierarchical Cartesian Meshes</em> 
 
-**Title of Christian&#x27;s keynote lecture:** *How high-fidelity simulations of hydrogen combustion on supercomputers accelerate the energy transition.*
+<strong>Abstract:</strong>
 
-**Abstract:**
 
-*Reactive Computational Fluid Dynamics (rCFD) has become an indispensable tool in fundamental and applied research. In addition, rCFD is used in industrial design, such as aero engine combustors or gas turbines. This success is based on the combination of decades of scientific model development, efficient numerics and ever-increasing computing power. This situation is about to change as both the energy system (1) and the HPC architecture (2) are undergoing disruptive changes.*
+<p class="has-text-justified">
+    <em>Multiphysics problems often require coupled solution methods across distinct solvers, posing challenges in efficiency and scalability, in particular for temporally evolving domains. This presentation presents a numerical framework for such coupled problems, leveraging hierarchical Cartesian meshes with adaptive mesh refinement (AMR) and dynamic load balancing to ensure computational efficiency.
+    <br/>
+    <br/>
+    The proposed methods employ a shared base-level hierarchical Cartesian mesh, while allowing solver-specific refinement, enabling tailored resolution for each physics domain. We demonstrate the approach’s versatility through applications in conjugate heat transfer, aeroacoustics, and spray modeling. Crucially, dynamic load balancing proves advantageous not only for adaptive meshes but also for static ones, preventing memory overflow in individual ranks and achieving high parallel efficiency. Our results show that the coupled scheme achieves robust scalability, addressing key bottlenecks in multiphysics simulations with moving geometries.</em>
+</p>
 
-*First, the urgent need to shift from fossil fuels to renewable fuels such as hydrogen requires the redesign of energy conversion systems due to the completely different combustion characteristics of renewable fuels. Combustion models for high-fidelity simulations are lacking and must be developed based on in-depth physical understanding. Second, the next generation of supercomputers will be mostly based on GPUs rather than CPUs. Efficient use of these systems will require a new class of CFD software with specialized numerics.*
-
-*In this talk I will first introduce the role of rCFD in combustion system design before I highlight the role of hydrogen in the energy transition and how it differs from conventional fuels. After discussing the impact of GPU-based supercomputers on rCFD software development, I will present how GPU-based direct numerical simulations can unravel the complexities of hydrogen combustion.*
-
-*In summary, in a rapidly changing environment, simulations on upcoming Exascale systems will provide physical insights that were deemed impossible just a few years ago. This will increase the impact of rCFD on the entire spectrum from fundamental science to industrial design of innovative systems.*
-
--->
+---

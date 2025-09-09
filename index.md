@@ -10,7 +10,8 @@ show_sidebar: false
 
 ## News
 
-* **25.08.2025 - Registration system has opened [click here](/key-dates-registration)**.
+* **09.09.2025 - Invited Speaker, Matthias Meinke: Efficient Coupled Multiphysics Simulations based on Hierarchical Cartesian Meshes [click here](/invited-speakers#speaker-3).**
+* 25.08.2025 - Registration system has opened [click here](/key-dates-registration)
 * 23.07.2025 - Abstract submission deadline (extended): Jul. 28, 2025 [click here](/key-dates-registration).
 * 09.07.2025 - Invited Speaker, Hector Benítez: High Performance Computing at UNAM: New Paradigm [click here](/invited-speakers#speaker-2).
 * 10.06.2025 - The Proceedings of the 35th Parallel CFD International Conference 2024 have been published [click here](https://juser.fz-juelich.de/record/1042307).
