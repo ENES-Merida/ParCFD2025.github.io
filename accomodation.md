@@ -8,7 +8,7 @@ hero_darken: true
 show_sidebar: false
 ---
 
-{% include notification.html message="Site under construction, information will be updated very soon." %}
+<!--{% include notification.html message="Site under construction, information will be updated very soon." %}-->
 
 Mérida has a great variety of hotels and restaurants that offer a good and comfortable experience to visiting the City. We recommend the following options within walking distances from our Venue:
 
