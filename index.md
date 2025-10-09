@@ -10,7 +10,7 @@ show_sidebar: false
 
 ## News
 
-* **09.09.2025 - Invited Speaker, Matthias Meinke: Efficient Coupled Multiphysics Simulations based on Hierarchical Cartesian Meshes [click here](/invited-speakers#speaker-3).**
+* 09.09.2025 - Invited Speaker, Matthias Meinke: Efficient Coupled Multiphysics Simulations based on Hierarchical Cartesian Meshes [click here](/invited-speakers#speaker-3).
 * 25.08.2025 - Registration system has opened [click here](/key-dates-registration)
 * 23.07.2025 - Abstract submission deadline (extended): Jul. 28, 2025 [click here](/key-dates-registration).
 * 09.07.2025 - Invited Speaker, Hector Benítez: High Performance Computing at UNAM: New Paradigm [click here](/invited-speakers#speaker-2).

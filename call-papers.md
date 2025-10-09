@@ -33,8 +33,8 @@ All abstracts will be reviewed and acceptance will be communicated to the author
 Abstracts can be submitted using the following portal.
 <br/>
 <div class="has-text-centered">
-    <!-- <a href="https://www.conftool.net/parcfd2025/" class="button is-primary" onclick="event.preventDefault()" disabled> -->
-    <a href="https://www.conftool.net/parcfd2025/" class="button is-primary">
+     <a href="https://www.conftool.net/parcfd2025/" class="button is-primary" onclick="event.preventDefault()" disabled> 
+    <!--<a href="https://www.conftool.net/parcfd2025/" class="button is-primary">-->
         Abstract Submission System
     </a>
 </div>
