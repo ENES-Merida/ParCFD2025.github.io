@@ -44,6 +44,8 @@
 - name: Programme
   link: /#
   dropdown:
+    - name: Schedule
+      link: /schedule/
     - name: Accepted Mini-Symposia
       link: /accepted-minisymposia/
 #- name: Blog
