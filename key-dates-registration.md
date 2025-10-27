@@ -51,12 +51,16 @@ show_sidebar: false
             <td> <del>Abstract acceptance notification</del> </td>
         </tr>
         <tr>
-            <td> <strong>Aug. 25, 2025</strong> </td>
-            <td> <strong>Registration opening</strong> </td>
+            <td> <del>Aug. 25, 2025</del> </td>
+            <td> <del>Registration opening</del> </td>
         </tr>
         <tr>
             <td> <del>Sept. 08, 2025</del> </td>
             <td> <del>Early-bird registration deadline</del> </td>
+        </tr>
+        <tr>
+            <td> <strong>Oct. 31, 2025</strong> </td>
+            <td> <strong>Registration deadline (extended)</strong> </td>
         </tr>
         <tr>
             <td> Nov. 24 - 26, 2025 </td>

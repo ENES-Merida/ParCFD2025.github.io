@@ -10,6 +10,8 @@ show_sidebar: false
 
 ## News
 
+* ‼️<strong>27.10.2025 - The registration deadline (extended): Oct. 31, 2025</strong> [click here](/key-dates-registration).
+* ‼️<strong>24.10.2025 - Invited Speaker, Simone Marras: The Evolution of Environmental Modeling in the Era of High-Performance Computing</strong> [click here](/invited-speakers#speaker-4).
 * 09.09.2025 - Invited Speaker, Matthias Meinke: Efficient Coupled Multiphysics Simulations based on Hierarchical Cartesian Meshes [click here](/invited-speakers#speaker-3).
 * 25.08.2025 - Registration system has opened [click here](/key-dates-registration)
 * 23.07.2025 - Abstract submission deadline (extended): Jul. 28, 2025 [click here](/key-dates-registration).

@@ -106,3 +106,32 @@ The following renowned experts will join us at ParCFD 2025 to enrich our confere
 </p>
 
 ---
+
+<h1>
+    Keynote
+</h1>
+<h2 id="speaker-4" class="has-text-centered">
+    Dr. Simone Marras - New Jersey Institute of Technology
+</h2>
+<img loading="lazy" src="{{ site.baseurl }}/img/simone.webp" alt="Invited Speakers" style="width: 300px; height: auto; display: block; margin: 0 auto"/>
+<p class="has-text-justified">
+    Simone Marras is Associate Professor of Fluid Dynamics at New Jersey Institute of Technology. He has been working in scientific computing and computational fluid dynamics for fifteen years and he enjoys writing open source software to solve PDEs.
+</p>
+<strong>Title of Marras's keynote lecture:</strong> <em>The Evolution of Environmental Modeling in the Era of High-Performance Computing</em> 
+<br>
+<br>
+<strong>Abstract:</strong>
+<p class="has-text-justified">
+    <em>
+        The past two decades have witnessed a profound transformation in numerical weather prediction, climate, and ocean modeling, largely driven by the widespread availability of massively parallel computing resources. This presentation will explore the key advancements that have propelled this evolution, the underlying factors that necessitated these changes, and the enduring computational and numerical challenges as we transition into and beyond the exascale computing era.
+        A central focus will be on the numerical modeling of natural hazards, specifically tropical cyclones and tsunamis. We will identify the computational and numerical requirements essential for their accurate and effective simulation.
+        <br>
+        <br>
+        Regarding tropical cyclones, which pose significant societal and economic threats, advancements in numerical techniques have led to substantial improve-
+        ments in track forecasting. However, the mechanisms governing rapid intensification (RI) remain an area of active research. This talk will demonstrate how recent progress in very high-resolution large eddy simulations is enhancing our understanding of the fundamental processes that control RI dynamics.
+        With respect to tsunami modeling, the discussion will center on simulating their interaction with coastal features, particularly within the context of natural protection strategies.
+        <br>
+        <br>
+        Finally, while exascale computing now enables simulations at resolutions previously unattainable, the emerging field of quantum computing is also exploring applications in fluid dynamics. We will consider the potential for these advanced computational paradigms to significantly reduce the time required for large-scale simulations in the future.
+    </em>
+</p>
