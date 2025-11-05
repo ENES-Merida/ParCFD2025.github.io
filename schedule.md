@@ -8,8 +8,18 @@ hero_darken: true
 show_sidebar: false
 ---
 
+<div class="message is-info">
+    <div class="message-body">
+        <span class="icon text-info">
+            <i class="fas fa-info-circle"></i>
+        </span>
+        <b>NOTE:</b>
+        <div class="content">
+            Here you can find the Conference schedule. A detailed schedule is available for the participants in <a href="https://www.conftool.net/parcfd2025/">ConfTool</a>,  please login and navigate to <strong>"Browse Conference Agenda"</strong>.
+        </div>
+    </div>
+</div>
 <div class="content">
-    Here you can find the Conference schedule. A detailed schedule is available for the participants in <a href="https://www.conftool.net/parcfd2025/">ConfTool</a> - please login and navigate to <em>"Browse Conference Agenda"</em>.
     <!--The full schedule including all session details is also available as PDF.-->
     <br>
     <br>
