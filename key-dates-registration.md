@@ -59,8 +59,8 @@ show_sidebar: false
             <td> <del>Early-bird registration deadline</del> </td>
         </tr>
         <tr>
-            <td> <strong>Oct. 31, 2025</strong> </td>
-            <td> <strong>Registration deadline (extended)</strong> </td>
+            <td> <del>Oct. 31, 2025</del> </td>
+            <td> <del>Registration deadline (extended)</del> </td>
         </tr>
         <tr>
             <td> Nov. 24 - 26, 2025 </td>
@@ -103,10 +103,12 @@ Registration opens on August 25, 2025. You will have the following options:
     Early-bird registration was available until September 08, 2025.
  </div>
  <br/><br/>
- <strong>The register is open</strong>. To register to the event please use the portal below.
+ <!--<strong>The register is open</strong>. To register to the event please use the portal below.-->
+ <strong>The register has closed</strong>. To access the portal, please log in using your registered account details below:
  <div class="has-text-centered">
      <!-- <a href="https://www.conftool.net/parcfd2025/" class="button is-primary" onclick="event.preventDefault()" disabled> -->
      <a href="https://www.conftool.net/parcfd2025/" class="button is-primary">
-         Registration System
+         Access Portal
+         <!--Registration System-->
      </a>
  </div>
